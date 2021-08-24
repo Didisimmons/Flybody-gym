@@ -1,0 +1,823 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:100,200,300,400,500,600,700|EB+Garamond:100,200,300,400,500,600,700');
+
+/* --------- Special paddings/margins/text --------*/
+
+.uppercase{
+    text-transform:uppercase;
+}
+
+.divider{
+    width:35px;
+    height:4px;
+    background-color:#364659;
+}
+
+.heading-font{
+    font-family:"Oswald", sans-serif;
+    font-weight:200;
+    color: #161D26;
+    padding:30px 0 20px 0;
+}
+
+.btn-general{
+    width: 100px;
+}
+
+.general-font{
+    font-family:"EB Garamond", sans-serif;
+    line-height:2;
+    font-size: 1rem;
+}
+
+.blue{
+    color:#364659;
+    font-weight:400;
+}
+
+.grey{
+    background-color:#AAB1BF;
+}
+
+.white{
+    background-color: #fff;
+}
+
+
+/* --------- Notification --------*/
+.notification-container .col-12{
+    padding-right:0;
+    padding-left:0;
+}
+
+.notification{
+    padding:15px 16px 3px 16px;
+    margin-bottom: 0;
+    background-color:#AAB1BF;
+    color:#161D26;
+    text-align: center;
+    
+}
+.nav-container{
+    position:absolute;
+    top:0;
+    left:0;
+    padding-left:0;
+    padding-right: 0;
+    z-index:1;
+}
+
+
+/* --------- Navigation bar --------*/
+.navbar{
+    margin-bottom:0;
+    border:0;
+    width:100%;
+    background-color:#6883A6;
+    padding: .4rem 1rem;
+}
+
+.navbar-brand{
+    font-family:"Oswald",sans-serif;
+    font-weight:500;
+    font-size:1.7rem;
+    color:black;
+    letter-spacing: 3px;
+    padding:5px 2px 5px 4px;
+}
+
+.navbar-nav li {
+    font-family:"Oswald",sans-serif;
+    font-weight:200;
+    font-size:1.2rem;
+    color:black;
+    letter-spacing:2px; 
+    
+}
+
+.nav-item {
+    padding:4px 3px 5px 3px;
+}
+
+.nav-item a:hover{
+    background-color: rgba(0,0,0,0.15);
+    border-radius:4px;  
+}
+.navbar .navbar-toggler {
+    border: 0;
+}
+
+/* --------- Banner --------*/
+.banner-container{
+    height:60vh;
+    width:100%;
+    background: url(../images/karsten-winegeart-unsplash-homecover.jpeg) no-repeat center center / cover fixed;  
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    position:relative;
+
+}
+
+.opaque { 
+    position:absolute;
+    top:0;
+    left:0;
+    height:100%;
+    width:100%;
+    background-color:rgba(0,0,0,.3);
+}
+
+.banner-header{
+    font-family:"Oswald", sans-serif;
+    font-weight:400;
+    font-size: 30px;
+    color: white;
+    letter-spacing: 4px;
+    line-height: 3;
+}
+
+.banner-font{
+    font-family:"Oswald", sans-serif;
+    font-weight:400;
+    font-size: 22px;
+    color: white;
+    font-style: italic;
+    padding: 1rem;
+    
+}
+
+.jumbotron{
+    background-color:transparent;
+}
+
+.btn-primary{
+    background-color: #6883A6;
+    color:white;
+    border-radius: 10px;
+    border:0;
+    min-width: 100px;
+}
+
+/* --------- about us section--------*/
+
+.fit-cover{
+    object-fit: cover;
+}
+
+.about-us{
+    padding-top: 30px;
+}
+
+.about-us-image {
+    background: url(../images/alex-starnes-unsplash-sisters.jpeg) no-repeat center center / cover;
+    width: 20rem;
+    height: 20rem;
+    border-radius: 50%;
+
+}
+
+
+/* --------- facilities section--------*/
+
+.faciliities-container{
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+.more-container{
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+
+.facilities-content {
+    margin-bottom: 20px;
+}
+
+.facilities-content img{
+    width: 8rem;
+    height: 8rem;
+    padding-top: 20px;
+
+}
+
+.card-body{
+    font-family:"EB Garamond", sans-serif;
+    line-height: 2;
+    font-size:1rem;
+}
+
+.card-body h3{
+    font-size:1.171875rem
+}
+
+.text-muted{
+    color:#495057!important;
+}
+
+.card-title{
+    font-family:"Oswald", sans-serif;
+    font-weight: 300;
+}
+
+#facilities-items{
+    margin: 0 auto 2em;
+    width: 80%;
+}
+
+#facilities-items li{
+    padding: 0;
+    margin-bottom:20px;
+}
+
+
+.facilities-item div{
+    text-align: center;  
+    font-family:"EB Garamond", sans-serif;  
+}
+
+
+.facilities-item img {
+    width: 75px;
+    height:75px;
+}
+
+.facilities-item  h4 {
+    font-weight: 300;
+    padding-top: 20px; 
+    font-size: 1.171875rem; 
+    
+}
+
+.more-facilities-container{
+    font-size:0;
+}
+
+.list-inline-item:not(:last-child){
+    margin:0;
+}
+
+  /*--------  Reviews -------- */
+
+.reviews-content{
+    height:50vh;
+    width:100%;
+    background: url(../images/scott-webb-unsplash-cover4.jpeg) no-repeat center center / cover fixed;  
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.reviews-container{
+    padding-top: 20px;
+    padding-bottom: 30px;  
+}
+
+.reviews{
+    color: white;
+}
+
+.blockquote-footer{
+    padding-top: 30px;
+    color: white;
+    font-family:"EB Garamond", sans-serif;
+    line-height: 2;
+    font-size:1rem;
+    font-weight: bold;
+}
+
+.carousel-indicators li, .carousel-indicators li.active{
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+}
+
+.carousel-indicators {
+    bottom:-40px;
+}
+
+.carousel-indicators li.active{
+    background-color: black;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon{
+    margin-top:40px;
+}
+
+.review-font{
+    font-family: "Oswald", sans-serif;
+    font-weight: 200;
+    color: #161D26;
+    padding:20px 0;
+}
+
+  /*--------  join us -------- */
+
+.why-us{
+    padding: 40px 0;
+}
+.reasons{
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top:20px;
+    font-family: "EB Garamond", sans-serif;
+    line-height: 25px;
+}
+
+.reasons i {
+    margin-bottom: 20px;
+    font-size: 45px;
+    line-height: 40px; 
+}
+
+.reasons h4{
+    font-size:1.2rem;
+
+}
+  /*-------- team members-------- */
+.team-container{
+    padding-top:20px;
+    padding-bottom: 50px;
+}
+å
+
+.rounded{
+    border-radius: 1rem!important;
+}
+
+.team-members img{
+    width: 13rem;
+    height: 13rem;
+    border:1px solid #AAB1BF;
+}
+
+/* --------- footer--------*/
+
+.footer-container{
+    padding:20px 0 20px;
+}
+
+.general{
+    font-family:"EB Garamond", sans-serif;
+    font-weight:200;
+    margin-top: 20px;
+}
+
+.footer-info{
+    margin-bottom: 10px;
+}
+
+.footer-content p i {
+    font-size: 15px;
+    color: black;
+    padding-left: 5px;
+}
+
+table{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.opening-time{
+    padding:0 10px;
+    font-size:0.8rem;
+    font-family:"EB Garamond", sans-serif;
+}
+
+.social-links{
+    margin-top:20px;
+    padding:0;
+}
+
+/* code from Resume project code-institute */
+.social-links li a i {
+    width:30px;
+    height:30px; 
+    font-size:13px;
+    text-align:center;
+    color:black;
+    transition:all 0.35s ease-in ;
+     -webkit-transition:all 0.35s ease-in;
+     -moz-transition:all 0.35s ease-in;
+     -o-transition:all 0.35s ease-in;
+}
+
+/* end of code from Resume project code-institute  */
+
+.fa-facebook-f:hover {
+    color:#007bff;
+}
+
+.fa-instagram:hover {
+    color:#fd7e14;
+}
+
+.fa-twitter:hover {
+    color:#17a2b8;
+}
+
+.fa-youtube:hover {
+    color:#dc3545;
+}
+
+.gym {
+    font-family:"EB Garamond", sans-serif;
+    font-size: 0.9rem;
+}
+
+.locations h5{
+    font-size:1.2rem;
+}
+
+.news{
+    padding-top: 5px;
+}
+
+/* --------- Modal--------*/
+.modal-header{
+    border:0;
+}
+
+.modal-footer{
+    border:0;
+    justify-content: center;
+}
+
+.modal-content{
+    background-color: #AAB1BF;
+}
+
+.form-control{
+    border-radius:30px;
+}
+.form-group{
+    margin-top:30px;
+    font-family:"EB Garamond", sans-serif;
+}
+
+.conditions{
+    margin:0;
+    padding-left: 10px;
+    color:#373a3c;
+    font-family: "EB Garamond", sans-serif;
+}
+
+  /* --------- Rates --------*/
+.rates-container{
+    padding-top: 40px;
+    height:60vh;
+    width:100%;
+    background: url(../images/karsten-winegeart-blackguy-rope-unsplash.jpeg) no-repeat center center / cover fixed;  
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    position:relative;
+}
+
+.price-container{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.price{
+    text-align: center;
+    padding-top:20px ;
+}
+
+.price-text{
+    padding-top: 3rem;
+    padding-bottom:1.5rem ;
+}
+
+ /* --------- Log in  --------*/
+.login-container{
+    padding-top: 40px;
+    height:60vh;
+    width:100%;
+    background: url(../images/pexels-tima-miroshnichenko-male-instructor1.jpeg) no-repeat center center / cover fixed;  
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    position:relative;
+}
+
+.sign-up{
+    padding: 60px 20px 60px 20px; 
+}
+
+.border-right{
+    border-right: 1px solid #071727!important;
+}
+
+.new{
+    font-family:"Oswald", sans-serif;
+    line-height: 2;
+    font-weight: bold;
+    padding:30px 0 10px 0;
+}
+
+.sign-up-content{
+    font-family:"EB Garamond", sans-serif;
+    font-weight:400;
+    margin: 40px;
+    line-height: 30px;
+    font-size:20px;
+}
+
+.btn-up{
+        background-color: #6883A6;
+        color:white;
+        border-radius: 10px;
+        border:0;
+        min-width: 100px;
+        margin: 20px 0 30px 0;
+}
+
+.login-details{
+    padding: 0 3rem 0 3rem;
+}
+
+.forgot-password{
+    font-weight: bold;
+}
+
+.forgot-password a:visited{
+    color:#81559B;
+}
+
+/* --------- Join Us --------*/
+.joinus-container{
+    padding-top: 40px;
+    height:60vh;
+    width:100%;
+    background: url(../images/karsten-winegeart-unsplash-joincover.jpeg) no-repeat center center / cover fixed;  
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    position:relative;
+}
+
+.join-form{
+    padding:40px;
+    background-color: #C4C4C4;
+}
+
+
+.join-head-text{
+    font-family:"EB Garamond", sans-serif;
+    font-weight:400;
+    text-align: center;
+}
+
+.join-head-text h4{
+    padding: 20px;
+    line-height:1.8;
+}
+
+
+/* ---------Classes  --------*/
+
+.class-container{
+    padding-top: 40px;
+    height:60vh;
+    width:100%;
+    background: url(../images/sven-mieke-unsplash-treadmills-min.jpeg) no-repeat center center / cover fixed;  
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    position:relative;
+}
+
+.timetable-header{
+    font-family:"Oswald", sans-serif;
+    line-height: 2rem;
+    font-weight: bold;
+    padding:30px 0 20px 0;
+
+}
+.timetable-content{
+    padding:30px;
+    font-family:"EB Garamond", sans-serif;
+    font-weight:400;
+}
+
+.timetable{
+    padding:20px 20px 30px 20px;
+}
+
+.timetable-text{
+    padding-top: 30px;
+    font-family:"EB Garamond", sans-serif;
+    font-weight:200;
+}
+
+
+/* --------- Instructors --------*/
+.instructors-container{
+    padding-top: 40px;
+    height:60vh;
+    width:100%;
+    background: url(../images/marcos-paulo-prado-unsplash-instructorcover3.jpeg) no-repeat center bottom / cover fixed;  
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    position:relative;
+}
+
+.instructors-content{
+    padding:40px 0 40px 0;
+}
+
+.instructor-member img{
+    width: 13rem;
+    height: 13rem;
+    border:1px solid #AAB1BF;
+}
+
+.instructor-member{
+    margin: 20px 0 ;
+}
+
+
+@media only screen and (max-width: 990px){
+
+.about-us-image {
+        width: 16rem;
+        height: 16rem;
+    
+}
+
+.facilities-content img{
+    width: 6rem;
+    height: 6rem;
+    padding-top: 20px;
+
+}
+
+}
+
+
+@media only screen and (max-width: 480px){
+
+.navbar-brand{
+    font-size:1.4rem;
+}
+    
+
+.navbar-nav li {
+    font-size:1rem;
+}
+
+.banner-header{
+    font-family:"Oswald", sans-serif;
+    font-weight:400;
+    font-size: 22px;
+    padding-top: 50px;
+    color: white;
+    margin-top: 10px;
+}
+
+.banner-font{
+    font-family:"Oswald", sans-serif;
+    font-weight:200;
+    font-size: 18px;
+    color: white;
+    padding:.35rem 0 .35rem 0;
+}
+
+.btn-group-lg>.btn, .btn-lg {
+    font-size: 0.9375rem;;
+}
+
+.facilities-item  h4 {
+    font-weight: 200;
+    font-size:0.85rem;  
+    
+}
+.card-body h3{
+    font-size:1rem;
+    font-family:"Oswald", sans-serif;
+}
+
+.card-body p{
+    font-size:14px;
+    font-family: 'EB Garamond',sans-serif;
+}
+
+.team-members img{
+    width: 10rem;
+    height: 10rem;
+    border:1px solid #AAB1BF;
+}
+
+.team-members{
+    padding-right:20px ;
+}
+
+.general-font{
+    font-family:"EB Garamond", sans-serif;
+    font-size: 0.85rem;
+}
+
+.general{
+    margin-top: 10px;
+    font-size: 0.95rem;
+}
+
+.text-muted{
+    font-size: 0.8rem;
+}
+
+.opening-time{
+    padding:0 5px;
+}
+
+.gym{
+    line-height:20px;
+    font-size: 0.76rem;
+}
+
+.locations h5{
+    font-size:1rem;
+}
+
+.community p{
+    font-size:0.85rem;
+}
+
+.rates-container{
+    
+    height:50vh;
+    width:100%;
+    
+}
+
+.price-text{
+    font-size: 0.84rem;
+}
+
+.border-right{
+        border-right:0!important;
+}
+
+.new{
+    font-size:24px;
+}
+
+.sign-up-content{
+    font-size:18px;
+
+}
+
+.btn-up{
+    font-size: .8375rem;
+}
+
+.join-head-text h4{
+    font-size: 1.15rem;
+
+}
+
+.instructor-member img{
+    width: 10rem;
+    height: 10rem;
+    border:1px solid #AAB1BF;
+}
+
+.review-font{
+    padding:20px 0;
+}
+
+.reviews-content{
+    height:60vh;
+}
+
+}
