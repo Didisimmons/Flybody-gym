@@ -26,7 +26,7 @@
 .general-font{
     font-family:"EB Garamond", sans-serif;
     line-height:2;
-    font-size: 1rem;
+    font-size: 1.1rem;
 }
 
 .blue{
@@ -122,6 +122,7 @@
 
 }
 
+   
 .opaque { 
     position:absolute;
     top:0;
@@ -133,23 +134,35 @@
 
 .banner-header{
     font-family:"Oswald", sans-serif;
-    font-weight:400;
+    font-weight:bold;
     font-size: 30px;
     color: white;
     letter-spacing: 4px;
     line-height: 3;
+/* ---------Code from codeinstitute's love running project --------*/
+    animation-name:hero-zoom;
+    animation-duration: 6s;
+    animation-fill-mode: forwards;
+ /*--- end---*/   
 }
 
 .banner-font{
     font-family:"Oswald", sans-serif;
-    font-weight:400;
+    font-weight:bold;
     font-size: 22px;
     color: white;
-    font-style: italic;
     padding: 1rem;
+/* ---------Code from codeinstitute's love running project --------*/
+    animation-name:hero-zoom;
+    animation-duration: 6s;
+    animation-fill-mode: forwards;
+ /*--- end---*/   
     
 }
 
+.button-space{
+    padding-top: 20px;
+}
 .jumbotron{
     background-color:transparent;
 }
@@ -198,12 +211,6 @@
     margin-bottom: 20px;
 }
 
-.facilities-content img{
-    width: 8rem;
-    height: 8rem;
-    padding-top: 20px;
-
-}
 
 .card-body{
     font-family:"EB Garamond", sans-serif;
@@ -362,7 +369,7 @@
 /* --------- footer--------*/
 
 .footer-container{
-    padding:20px 0 20px;
+    padding:20px 0 10px;
 }
 
 .general{
@@ -498,7 +505,8 @@ table{
 
 .price-text{
     padding-top: 3rem;
-    padding-bottom:1.5rem ;
+    padding-bottom:1.5rem;
+    font-size:20px;
 }
 
  /* --------- Log in  --------*/
@@ -621,18 +629,27 @@ table{
 }
 .timetable-content{
     padding:30px;
-    font-family:"EB Garamond", sans-serif;
-    font-weight:400;
+    background-color: #C4C4C4;
 }
 
 .timetable{
     padding:20px 20px 30px 20px;
 }
 
+.timetable-notice{
+    font-family:"EB Garamond", sans-serif;
+    font-weight:400;
+    font-size:16px;
+}
+
 .timetable-text{
     padding-top: 30px;
     font-family:"EB Garamond", sans-serif;
     font-weight:200;
+}
+
+.small, small{
+    font-size: 100%;
 }
 
 
@@ -666,6 +683,64 @@ table{
     margin: 20px 0 ;
 }
 
+           /*  Thanks page   */ 
+.thanks-container{
+    padding-top: 40px;
+    height:60vh;
+    width:100%;
+    background: url(../images/victor-freitas-unsplash.jpeg) no-repeat center center / cover fixed;  
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    position:relative;
+}
+        
+.thanks{
+    font-family:'EB Garamond',sans-serif; 
+    font-weight:bold;
+    font-size: 22px;
+    padding-top: 50px;
+    line-height: 2;
+}
+        
+.thanks-content{
+    padding:30px 10px ;
+}
+        
+.thankyou-image lord-icon{
+    width:50%;
+    height:50%;
+}
+        
+.smiley-text{
+    font-family:"EB Garamond", sans-serif;
+    font-weight:500;
+    margin-top: 20px;
+}
+        
+.thanks-message{
+    font-family:"EB Garamond", sans-serif;
+    font-weight:300;
+    font-size:1.2rem;
+}
+        
+        
+/* ---------Code from codeinstitute's love running project --------*/
+@keyframes hero-zoom{
+    from{
+      transform: scale(1);
+    }
+    to{
+      transform: scale(1.1);
+    }
+
+}
+
+/* --------- end of Code from codeinstitute's love running project --------*/
 
 @media only screen and (max-width: 990px){
 
@@ -675,43 +750,54 @@ table{
     
 }
 
-.facilities-content img{
-    width: 6rem;
-    height: 6rem;
-    padding-top: 20px;
+}
 
+@media only screen and (max-width: 860px){
+
+.banner-header{
+    font-size: 28px;
+    padding-top:50px;
+}
+
+.banner-font{
+    font-size: 20px;
 }
 
 }
+@media only screen and (max-width: 760px){
 
-
+.price-text{
+        font-size:18px;
+}
+.timetable-notice{
+    font-size:14px;
+}
+}
+    
 @media only screen and (max-width: 480px){
 
 .navbar-brand{
     font-size:1.4rem;
 }
     
-
 .navbar-nav li {
     font-size:1rem;
 }
 
 .banner-header{
-    font-family:"Oswald", sans-serif;
-    font-weight:400;
     font-size: 22px;
     padding-top: 50px;
-    color: white;
+    line-height: 2;
     margin-top: 10px;
 }
 
+
 .banner-font{
-    font-family:"Oswald", sans-serif;
-    font-weight:200;
-    font-size: 18px;
-    color: white;
-    padding:.35rem 0 .35rem 0;
+    font-weight: 400;
+    font-size: 18px; 
+    margin:20px;  
 }
+
 
 .btn-group-lg>.btn, .btn-lg {
     font-size: 0.9375rem;;
@@ -743,8 +829,7 @@ table{
 }
 
 .general-font{
-    font-family:"EB Garamond", sans-serif;
-    font-size: 0.85rem;
+    font-size: 1rem;
 }
 
 .general{
@@ -753,7 +838,7 @@ table{
 }
 
 .text-muted{
-    font-size: 0.8rem;
+    font-size: 0.9rem;
 }
 
 .opening-time{
@@ -781,7 +866,7 @@ table{
 }
 
 .price-text{
-    font-size: 0.84rem;
+    font-size: 14.4px;
 }
 
 .border-right{
@@ -817,7 +902,58 @@ table{
 }
 
 .reviews-content{
-    height:60vh;
+    height:70vh;
 }
 
+.small, small {
+    font-size: 80%;
+}
+
+.smiley-text{
+    font-size:1.1rem;
+}
+
+.thanks{
+    font-size:20px;
+}
+.thanks-message{
+    font-size:1rem;
+}
+
+}
+
+@media only screen and (max-width: 370px){
+.banner-header{
+    font-size: 20px;
+    padding-top: 70px;
+    color: white;
+}
+        
+.banner-font{
+    font-size: 16px;
+    color: white;    
+} 
+    
+.team-members img{
+    width:8rem;
+    height: 8rem;
+}
+    
+.general-font{
+    font-size: 0.89rem;
+}
+    
+.text-muted{
+    font-size:0.8rem;
+}
+
+.thanks{
+    font-size: 18px;
+}
+.smiley-text{
+    font-size:1rem ;
+}
+.thanks-message{
+    font-size: 0.89rem;
+}
 }
