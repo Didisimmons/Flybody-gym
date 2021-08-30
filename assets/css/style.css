@@ -162,6 +162,7 @@
 
 .button-space{
     padding-top: 20px;
+
     animation-name:hero-zoom;
     animation-duration: 6s;
     animation-fill-mode: forwards;
@@ -464,6 +465,10 @@ table{
 
 .modal-content{
     background-color: #AAB1BF;
+}
+
+.modal-title{
+    font-weight: 500;
 }
 
 .form-control{

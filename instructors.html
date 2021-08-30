@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="Description" content="Instructors at FLYBODY"/>
-    <meta name="keywords" content="instructors, gym instructors, fitness enthusiasts, equipments, fitness community, workout instructors, weightloss instructors, bodybuilding instructors">
+    <meta name="keywords" content="instructors, gym instructors, fitness enthusiasts, gym equipments, fitness community, workout instructors, weightloss instructors, bodybuilding instructors">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/4.6.0/cosmo/bootstrap.min.css" type="text/css">
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Instructors at FLYBODY</title>
@@ -221,8 +221,8 @@
                 </button>  
                 </div>
                 <div class="modal-body">
-                    <p>Keep upto date with our latest news!</p>
-                    <form method="POST" action="#">
+                    <p class="general-font">Keep upto date with our latest news!</p>
+                    <form action="thanks.html">
                       <div class="form-group">
                         <label for="frst-name">First Name</label>
                         <input type="text" name="first-name" class="form-control" id="frst-name"  aria-label="member-first-name"  placeholder="Please enter your first name" required>
@@ -239,23 +239,23 @@
                         <label>Are you a member? </label>
                       </div>
                       <div class="form-check-inline">
-                        <input class="form-check-input" type="radio" name="member" id="yes" value="yes" >
+                        <input class="form-check-input" type="radio" name="member" id="yes" value="yes" required>
                         <label class="form-check-label" for="yes">
                         Yes
                         </label>
                       </div>
                       <div class="form-check-inline">
-                        <input class="form-check-input" type="radio" name="member" id="no" value="no">
+                        <input class="form-check-input" type="radio" name="member" id="no" value="no" required>
                         <label class="form-check-label" for="no">
                           No
                         </label>
                       </div>
+                      <div class="modal-footer ">
+                        <button type="submit" class="btn btn-primary"  id="submit" value="submit" aria-label="submit" >Submit</button>
+                      </div>
                     </form>
                 </div>
-              <div class="modal-footer ">
-                <button type="submit" class="btn btn-primary"  id="submit" value="submit" aria-label="submit" >Submit</button>
-              </div>
-              <small class="blue text-center pb-2">Please note that your information would not be shared with any third parties</small>
+              <small class="blue text-center pb-3">Please note that your information would not be shared with any third parties</small>
             </div>
           </div>
         </div>

@@ -94,7 +94,7 @@
                          <input type="number" class="form-control" id="number"  placeholder="Phone Number" required>
                        </div>
                        <div class="form-group">
-                           <select class="form-control " name="location" id="location">
+                           <select class="form-control" name="location" id="location" required>
                                <option value="preferred_location"> Pick a preferred Location</option>
                                <option value="flybody_lekki">FLY BODY LEKKI</option>
                                <option value="flybody_victoria">VICTORIA CLUB VI</option>
@@ -103,11 +103,12 @@
                            </select>
                          </div>
                        <div class="form-group form-check">
-                         <input type="checkbox" class="form-check-input" id="check1">
+                         <input type="checkbox" class="form-check-input" id="check1" required>
                          <p class="form-check-label conditions">By clicking this box, you acknowledge that your personal details be sent to FLYBODY and FLYBODY has the right to contact you.</p>
                        </div>
                        <div class="text-center">
-                        <a class="btn btn-primary btn-lg uppercase" href="thanks.html" role="button">Sign Up</a>
+                        <button type="submit" class="btn btn-primary btn-lg uppercase d-sm-inline d-none" data-toggle="modal" data-target="#signup"> Sign Up </button>
+                        <button type="submit" class="btn btn-primary uppercase d-sm-none" data-toggle="modal" data-target="#signup"> Sign Up </button>
                        </div>
                      </form>
                 </div>             
@@ -194,7 +195,7 @@
                 </button>  
                 </div>
                 <div class="modal-body">
-                    <p>Keep upto date with our latest news!</p>
+                    <p class="general-font">Keep upto date with our latest news!</p>
                     <form action="thanks.html">
                       <div class="form-group">
                         <label for="frst-name">First Name</label>
@@ -212,23 +213,22 @@
                         <label>Are you a member? </label>
                       </div>
                       <div class="form-check-inline">
-                        <input class="form-check-input" type="radio" name="member" id="yes" value="yes" >
+                        <input class="form-check-input" type="radio" name="member" id="yes" value="yes" required >
                         <label class="form-check-label" for="yes">
                         Yes
                         </label>
                       </div>
                       <div class="form-check-inline">
-                        <input class="form-check-input" type="radio" name="member" id="no" value="no">
+                        <input class="form-check-input" type="radio" name="member" id="no" value="no" required>
                         <label class="form-check-label" for="no">
                           No
                         </label>
                       </div>
-                    <div class="modal-footer ">
-                        <button type="submit" class="btn btn-primary"  id="submit" value="submit" aria-label="submit" >Submit</button>
-                    </div>
+                      <div class="modal-footer ">
+                          <button type="submit" class="btn btn-primary"  id="submit" value="submit" aria-label="submit" >Submit</button>
+                      </div>
                     </form>
                 </div>
-              
               <small class="blue text-center pb-2">Please note that your information would not be shared with any third parties</small>
             </div>
           </div>

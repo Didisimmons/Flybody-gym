@@ -183,7 +183,6 @@
                 <div class="col text-center">
                     <p class="timetable-notice"> Please keep in mind that our classes are first come, first served, and you must book a spot before you can attend </p>
                     <small class="timetable-text">Classes must be booked online or via the app. You can also join the classes virtually from your profile. </small> 
-
                 </div>
             </div>
         </div>
@@ -268,8 +267,8 @@
                 </button>  
                 </div>
                 <div class="modal-body">
-                    <p>Keep upto date with our latest news!</p>
-                    <form method="POST" action="#">
+                    <p class="general-font">Keep upto date with our latest news!</p>
+                    <form action="thanks.html">
                       <div class="form-group">
                         <label for="frst-name">First Name</label>
                         <input type="text" name="first-name" class="form-control" id="frst-name"  placeholder="Please enter your first name" required>
@@ -286,23 +285,23 @@
                         <label>Are you a member? </label>
                       </div>
                       <div class="form-check-inline">
-                        <input class="form-check-input" type="radio" name="member" id="yes" value="yes" >
+                        <input class="form-check-input" type="radio" name="member" id="yes" value="yes" required>
                         <label class="form-check-label" for="yes">
                         Yes
                         </label>
                       </div>
                       <div class="form-check-inline">
-                        <input class="form-check-input" type="radio" name="member" id="no" value="no">
+                        <input class="form-check-input" type="radio" name="member" id="no" value="no" required>
                         <label class="form-check-label" for="no">
                           No
                         </label>
                       </div>
+                      <div class="modal-footer ">
+                        <button type="submit" class="btn btn-primary"  id="submit" value="submit" aria-label="submit" >Submit</button>
+                      </div>
                     </form>
-                </div>
-              <div class="modal-footer ">
-                <button type="submit" class="btn btn-primary"  id="submit" value="submit" aria-label="submit" >Submit</button>
-              </div>
-              <small class="blue text-center pb-2">Please note that your information would not be shared with any third parties</small>
+                </div>        
+              <small class="blue text-center pb-3">Please note that your information would not be shared with any third parties</small>
             </div>
           </div>
         </div>

@@ -42,7 +42,7 @@
                         <a class="nav-link" href="rates.html">Rates</a>
                       </li>  
                       <li class="nav-item active uppercase">
-                        <a class="nav-link " href="timetable.html">Timetable/a> 
+                        <a class="nav-link " href="timetable.html">Timetable</a> 
                       </li>
                       <li class="nav-item active uppercase">
                         <a class="nav-link " href="instructors.html">Instructors</a>
@@ -90,17 +90,19 @@
                 <div class="row">
                     <div class="col login-details text-center">
                         <h2 class="new">LOG IN</h2>
-                            <div class="form-group">
+                           <form action="thanks.html">
+                              <div class="form-group">
                                 <label for="email">Email or Username </label>
                                 <input type="email" class="form-control" id="email" name="emailaddress" placeholder=" emailexample@email.com" required>
-                            </div>
-                            <div class="form-group">
-                                <label for="password">Password</label>
-                                <input type="text" class="form-control" id="password" name="password1" placeholder=" must be 6 characters long can contain numbers and symbols but no spaces allowed " required>
-                            </div>
-                        <button type="submit" class="btn btn-up btn-lg uppercase"  > Sign in  </button>
+                              </div>
+                              <div class="form-group">
+                                  <label for="password">Password</label>
+                                  <input type="password" class="form-control" id="password" name="password1" placeholder=" must be 6 characters long can contain numbers and symbols but no spaces allowed " required>
+                              </div>
+                              <button type="submit" class="btn btn-up btn-lg uppercase"> Sign in  </button>
+                           </form>           
                     </div>
-                </div>
+                 </div>
                 <div class="row">
                     <div class="col text-center">
                         <p class="forgot-password"> Forgot password ? <a href="index.html" target="_blank" class="blue">Click here ?</a></p>
@@ -191,7 +193,7 @@
             </div>
             <div class="modal-body">
                 <p>Join the FlyBody Tribe!</p>
-                <form method="POST" action="https://formdump.codeinstitute.net/">
+                <form action="thanks.html">
                     <div class="form-group">
                       <label for="fname">First Name</label>
                       <input type="text" name="firs-name" class="form-control" id="fname"  aria-label="member-first-name"  placeholder="Please enter your first name" required>
@@ -212,38 +214,38 @@
                       <label>Preferred Location</label>
                     </div>
                     <div class="form-check-inline">
-                      <input class="form-check-input" type="radio" name="gym-locations" id="lekki" value="flybody_lekki" >
+                      <input class="form-check-input" type="radio" name="gym-locations" id="lekki" value="flybody_lekki" required>
                       <label class="form-check-label" for="lekki">
                       Lekki
                       </label>
                     </div>
                     <div class="form-check-inline">
-                      <input class="form-check-input" type="radio" name="gym-locations" id="vi" value="flybody_victoria">
+                      <input class="form-check-input" type="radio" name="gym-locations" id="vi" value="flybody_victoria" required>
                       <label class="form-check-label" for="vi">
                         VI
                       </label>
                     </div>
                     <div class="form-check-inline">
-                      <input class="form-check-input" type="radio" name="gym-locations" id="chevron" value="flybody_brasschevron">
+                      <input class="form-check-input" type="radio" name="gym-locations" id="chevron" value="flybody_brasschevron" required>
                       <label class="form-check-label" for="chevron">
                         Chevron
                       </label>
                     </div>
                     <div class="form-check-inline">
-                      <input class="form-check-input" type="radio" name="gym-locations" id="ikota" value="flybody_ikota">
+                      <input class="form-check-input" type="radio" name="gym-locations" id="ikota" value="flybody_ikota" required>
                       <label class="form-check-label" for="ikota">
                         Ikota
                       </label>
                     </div>
                     <div class="form-check-inline pt-4">
-                      <input type="checkbox" name="accept_terms" value="yes" >
-                      <p class="conditions">I agree to the terms & conditions of  <a href="#" target="_blank"> FLYBODY </a></p>
-                    </div>  
+                      <input type="checkbox" name="accept_terms" value="yes" required>
+                      <p class="conditions">I agree to the terms & conditions of  <a href="index.html" target="_blank"> FLYBODY </a></p>
+                    </div> 
+                    <div class="modal-footer ">
+                      <button type="submit" class="btn btn-primary"  id="submit1" value="submit" aria-label="submit">Submit</button>
+                    </div> 
                 </form>
             </div>
-          <div class="modal-footer ">
-            <button type="submit" class="btn btn-primary "  id="submit1" value="submit" aria-label="submit">Submit</button>
-          </div>
           <p> You would recieve an email shortly with the next steps of registration, <strong>Welcome to the FLYBODY community!!</strong> </p>
           <small class="blue pb-2">Please note that your information would not be shared with any third parties</small>
         </div>
@@ -262,8 +264,8 @@
             </button>  
             </div>
             <div class="modal-body">
-                <p>Keep upto date with our latest news!</p>
-                <form method="POST" action="#">
+                <p class="general-font">Keep upto date with our latest news!</p>
+                <form action="thanks.html">
                   <div class="form-group">
                     <label for="frst-name">First Name</label>
                     <input type="text" name="first-name" class="form-control" id="frst-name"  aria-label="member-first-name"  placeholder="Please enter your first name" required>
@@ -280,23 +282,23 @@
                     <label>Are you a member? </label>
                   </div>
                   <div class="form-check-inline">
-                    <input class="form-check-input" type="radio" name="member" id="yes" value="yes">
+                    <input class="form-check-input" type="radio" name="member" id="yes" value="yes" required>
                     <label class="form-check-label" for="yes">
                     Yes
                     </label>
                   </div>
                   <div class="form-check-inline">
-                    <input class="form-check-input" type="radio" name="member" id="no" value="no">
+                    <input class="form-check-input" type="radio" name="member" id="no" value="no" required>
                     <label class="form-check-label" for="no">
                       No
                     </label>
                   </div>
+                  <div class="modal-footer ">
+                    <button type="submit" class="btn btn-primary"  id="submit" value="submit" aria-label="submit" >Submit</button>
+                  </div>
                 </form>
             </div>
-          <div class="modal-footer ">
-            <button type="submit" class="btn btn-primary"  id="submit" value="submit" aria-label="submit" >Submit</button>
-          </div>
-          <small class="blue text-center pb-2">Please note that your information would not be shared with any third parties</small>
+          <small class="blue text-center pb-3">Please note that your information would not be shared with any third parties</small>
         </div>
       </div>
     </div>
