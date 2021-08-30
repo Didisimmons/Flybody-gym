@@ -162,7 +162,11 @@
 
 .button-space{
     padding-top: 20px;
+    animation-name:hero-zoom;
+    animation-duration: 6s;
+    animation-fill-mode: forwards;
 }
+
 .jumbotron{
     background-color:transparent;
 }
@@ -724,7 +728,7 @@ table{
         
 .thanks-message{
     font-family:"EB Garamond", sans-serif;
-    font-weight:300;
+    font-weight:bold;
     font-size:1.2rem;
 }
         
@@ -772,6 +776,11 @@ table{
 .timetable-notice{
     font-size:14px;
 }
+
+.thanks-message{
+    font-size:1.1rem;
+}
+ 
 }
     
 @media only screen and (max-width: 480px){
