@@ -74,6 +74,7 @@
     width:100%;
     background-color:#6883A6;
     padding: .4rem 1rem;
+    text-align: center;
 }
 
 .navbar-brand{
@@ -773,6 +774,7 @@ table{
 }
 
 }
+
 @media only screen and (max-width: 760px){
 
 .price-text{
