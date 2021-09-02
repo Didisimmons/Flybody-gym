@@ -163,7 +163,6 @@
 
 .button-space{
     padding-top: 20px;
-
     animation-name:hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
@@ -760,6 +759,11 @@ table{
     
 }
 
+.loyalty-reasons{
+    padding-left:33%;
+    padding-right: 33%;
+
+}
 }
 
 @media only screen and (max-width: 860px){
@@ -787,8 +791,14 @@ table{
 .thanks-message{
     font-size:1.1rem;
 }
- 
+
+.loyalty-reasons{
+    padding:0;
+
 }
+
+}
+ 
     
 @media only screen and (max-width: 480px){
 
@@ -939,6 +949,7 @@ table{
 }
 
 @media only screen and (max-width: 370px){
+
 .banner-header{
     font-size: 20px;
     padding-top: 70px;
@@ -963,13 +974,18 @@ table{
     font-size:0.8rem;
 }
 
+
 .thanks{
     font-size: 18px;
 }
+
 .smiley-text{
     font-size:1rem ;
 }
+
+
 .thanks-message{
     font-size: 0.89rem;
 }
 }
+
