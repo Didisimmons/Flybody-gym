@@ -823,7 +823,7 @@ table{
 
 
 .banner-font{
-    font-weight: 400;
+    font-weight: bold;
     font-size: 18px; 
     margin:20px;  
 }
@@ -954,6 +954,9 @@ table{
 
 @media only screen and (max-width: 370px){
 
+.banner-container{
+    height: 70vh;
+}
 .banner-header{
     font-size: 20px;
     padding-top: 70px;
