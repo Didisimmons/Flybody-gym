@@ -56,7 +56,7 @@ As a customer I want to :
 
 #### Wireframes:  
 
-The wireframe for the entire site is available [here](https://www.figma.com/file/8qHDfvLP2VWCYEGpWECjkS/FLYBODY?node-id=0%3A1).  This shows the site on both a desktop and a mobile device, with some tablet view wireframes indicating when the screen view is different.
+The wireframe for the entire site is available [here](https://www.figma.com/file/8qHDfvLP2VWCYEGpWECjkS/FLYBODY?node-id=0%3A1).  This shows the site on both a desktop and a mobile device, with some tablet view wireframes indicating when the screen view is different and its interactions.
 
 
 ## FEATURES
