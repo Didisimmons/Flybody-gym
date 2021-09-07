@@ -215,7 +215,7 @@ The page also has a footer that contains the same information as before.
 
 
 ## TESTING 
-This can be found in another file called [TEST.md](test.md)
+This can be found in another file called [TEST.md](TEST.md)
 
 ## DEPLOYMENT 
 
@@ -269,7 +269,7 @@ Activate your local IDE terminal.
 
 * The inspiration for the site's design came from extensive online study on various gyms accessible, such as [Ignite](https://ignitefitness.com/rates/),[celebrity fitness](https://www.celebrityfitness.com.ph/) and [Zumba](https://strong.zumba.com/en-US/)
 
-* The design of the login page was influenced by another[fitness website](https://www.zumba.com/en-US)
+* The design of the login page was influenced by another [fitness website](https://www.zumba.com/en-US)
 
 * Code assistance with the positioning of team member photographs on the homepage and instructors on the teacher page was obtained from another peer's project [here](https://vanessacleary.github.io/vanessacleary-Ms1-2021/index.html#home-section) in code institute.
 
@@ -304,7 +304,7 @@ The images used on the website were obtained from image suppliers such as pexels
 
 * The image used on the rates page as the hero image is a photo by Karsten Winegeart from [unsplash](https://unsplash.com/photos/0Wra5YYVQJE).
 
-* The hero image on the timetable page is a photo by Sven Mieke from [unsplash][(https://unsplash.com/photos/MsCgmHuirDo).
+* The hero image on the timetable page is a photo by Sven Mieke from [unsplash] (https://unsplash.com/photos/MsCgmHuirDo).
 
 * The background hero image for the instructors page is a photo from Marcos Paulo Prado from [unsplash](https://unsplash.com/photos/-k7WRj0E64Q). 
 
@@ -319,10 +319,10 @@ The images used on the website were obtained from image suppliers such as pexels
 
  - For Keffi Chuku-  Photo by Omid Armin from [unsplash](https://unsplash.com/photos/89poi2aVXX0).
 
- - For Brenda Hynes - Photo by Alora Griffiths from [unsplash] (https://unsplash.com/photos/PLmA2IY8z3U).
+ - For Brenda Hynes - Photo by Alora Griffiths from [usplash](https://unsplash.com/photos/PLmA2IY8z3U).
 
- - For Brown Philip -  Photo by Pikx by Panther from [pexels] (https://www.pexels.com/photo/photo-of-man-with-muscular-body-1547248/).
-
+ - For Brown Philip - Photo by Pikx by Panther from [pexels](https://www.pexels.com/photo/photo-of-man-with-muscular-body-1547248/).
+ 
  - For Rita Baj- Photo by Styves Exantus from [pexels](https://www.pexels.com/photo/city-fashion-people-woman-8437651/).
 
 * On the Login page, the  hero image is taken from [pexels](https://www.pexels.com/photo/light-man-beach-people-6388377/) by Tima miroshnichenko. 
