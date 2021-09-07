@@ -458,15 +458,15 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 
     6. Confirm that the forgot password "Click here" link works and takes the user to the relevant page.
 
-       Testing this on all devices reveals that when the “Click here” link is clicked, the user gets directed to the home page as predicted.
+         Testing this on all devices reveals that when the “Click here” link is clicked, the user gets directed to the home page as predicted.
 
 	7. Check that the forgot my password "Click here" link works and that it changes colour when the user has previously visited the page. 
 
-       When tested on all devices, it can be seen that when the link is clicked, the link color changes to maroon, as predicted, because the page has previously been clicked and visited.
+         When tested on all devices, it can be seen that when the link is clicked, the link color changes to maroon, as predicted, because the page has previously been clicked and visited.
 
     8. Check that the “Click here” link changes colour when hovered, and that the “Click here” link changes colour if the user has already visited the page.
 
-        When tested on all devices, it can be seen that when the mouse is hovered over the “Click here” link, the colour changes to blue, and when the user views the website, the link colour changes to maroon because the page has been visited.
+          When tested on all devices, it can be seen that when the mouse is hovered over the “Click here” link, the colour changes to blue, and when the user views the website, the link colour changes to maroon because the page has been visited.
 
 4. 	Footer  
 
@@ -494,19 +494,19 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 
     2.	Confirm the form validation for the join us form is active and the form is responsive on all screen sizes.
 
-    By altering the screen width, it is possible to see that the form occupies 80 percent of the width on a tablet and desktop device. On a mobile device, the form takes up the entire width of the screen. As the screen size is changed, the form adapts to all screen sizes. On all devices, the form validation works as intended. Before submitting, the user must correctly fill out all of the fields.
+          By altering the screen width, it is possible to see that the form occupies 80 percent of the width on a tablet and desktop device. On a mobile device, the form takes up the entire width of the screen. As the screen size is changed, the form adapts to all screen sizes. On all devices, the form validation works as intended. Before submitting, the user must correctly fill out all of the fields.
 
     3. Confirm that the form's drop down preferred location selections are visible and responsive on all screen widths. 
 
-        Testing this by adjusting the screen width it can be seen that the drop down preferred location menu is responsive on all screen sizes. It allows the user to pick just one location from the options available and is responsive to the screen width as expected.    
+          Testing this by adjusting the screen width it can be seen that the drop down preferred location menu is responsive on all screen sizes. It allows the user to pick just one location from the options available and is responsive to the screen width as expected.    
 
     4.  Confirm that the colour of the “SIGN UP” button changes when the cursor is hovered over it.
     
-        By hovering the mouse over the “SIGN UP” button, it can be noticed that the button changes colour to blue as predicted.
+           By hovering the mouse over the “SIGN UP” button, it can be noticed that the button changes colour to blue as predicted.
 
     5.  Check that the “SIGN UP” button takes you to the correct page when you click it.
 
-        By correctly filling out the form and clicking the button, it can be observed that the button does indeed go to the correct page, which is the thank you page.
+           By correctly filling out the form and clicking the button, it can be observed that the button does indeed go to the correct page, which is the thank you page.
 
     
 4.	Footer  
@@ -536,7 +536,7 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 
     2.	Confirm that the happy face icon is responsive and fits appropriately on all screen sizes.
 
-    When the screen size is changed, it is clear that the happy face icon responds to the screen width. It adapts to the width of the screen by rising or decreasing in size as predicted, and it looks beautiful on all devices.
+         When the screen size is changed, it is clear that the happy face icon responds to the screen width. It adapts to the width of the screen by rising or decreasing in size as predicted, and it looks beautiful on all devices.
 
 
 4. Footer 
