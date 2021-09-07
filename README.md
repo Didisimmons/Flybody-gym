@@ -39,10 +39,23 @@ As a customer I want to :
 * Log in to my account quickly and easily to track my fitness goals, book classes, and engage with the rest of the fitness community.
 * Find low-cost memberships that can be tailored to my needs without breaking the budget.
 
+
+## DESIGN
+* Colour Scheme
+    - The colours used on the site were picked from Glebstock's adobe palette. www.color.adobe.com/search?q=gym.
+    - FLYBODY's brand is represented by the palette. The colours were chosen to convey trust and honesty to the user throughout the website, as well as cleanliness and simplicity.
+* Typography
+  - To ensure consistency, the Oswald and EB Garamond fonts are used throughout the site. The two fonts give our site a distinct personality and elegance, as well as an appealing appearance.
+* Imagery 
+  - The photos featured throughout the site were obtained from free image providers such as Unsplash, Pexels, Pixibay, and so on.
+   
+   - The photographs portray a modern aesthetic gym where members are having fun using the gym's facilities and equipment, as well as the energy that can be expected there. The graphics' purpose is to draw viewers' attention to the FLY BODY website, where they may register and join the community.
+
 #### Wireframes:   
 The wireframe for the entire site is available [here](https://www.figma.com/file/8qHDfvLP2VWCYEGpWECjkS/FLYBODY?node-id=0%3A1).  This shows the site on both a desktop and a mobile device, with some tablet view wireframes indicating when the screen view is different.
 
-## FEAUTURES 
+
+## FEATURES 
  On each of the five pages, a fully responsive navigation bar has been included. The navigation bar is made up of the gym's emblem on the far left and five different links on the right. On a mobile device, the five individual links condense into a hamburger icon in the menu bar, while the logo on the left side remains unchanged.
 
 Each of the five pages has a footer with information about the head office location, additional locations present, a contact phone number, social media icons for their social media presence, and a call to action button to join FLYBODY's community. The social media links offer the user with a sense of trust and allow for involvement across their channels. The primary goal of the call to action button is to aggressively convert our users into potential clients by shortening the conversion funnel process.
@@ -142,7 +155,7 @@ The page also has a footer that contains the same information as before.
 
 * Footer Section : This exists on every single webpage on FLYBODY. The footer section is divided into three sections both on a tablet and desktop device, while on a mobile device one column is hidden. The first section provides details about the address of the head office, phone number and opening hours.  The second section lists all the FLYBODY locations and operation hours on public holidays. The third sections encompasses of a brief message to subscribe to FLYBODY newsletter . This section allows the user to view basic information about the gym such as locations and opening hours as well as allow them to easily subscribe to newsletters to keep up to date with latest updates and news. The subscription button column is hidden on a mobile device.  
 
-* Icons: Icons are used on every single page on FLYBODY site to convey a piece of information as well as beautify the appearance of the site .   
+* Icons: Icons are used on every single page on FLYBODY site to convey a piece of information as well as beautify the appearance of the site.   
 
 * Rates page : This informs the user about the various packages offered at FLYBODY. The user can easily select a membership that suits its budget and sign up immediately. 
 
@@ -156,5 +169,54 @@ The page also has a footer that contains the same information as before.
 
 * Thank you page : This page thanks the user for joining us at FLYBODY and informs the user of FLYBODY's next moves. This ensures that the user has up-to-date timely information.
 
- 
+ ### FEATURES TO IMPLEMENT IN FUTURE
 
+* On the homepage, there is a section called "Facilities." The view more button should take the user to another link that provides photographs of the gym equipment as well as a video of people using the equipment. 
+
+* Login page-When a user logs into his or her account, a community channel should be available where they may chat with other users who share their fitness goals and track their fitness progress.
+
+* A frequently asked question (FAQ) page which gives clarification to users by answering typical common questions. This would increase communication and brand trust.
+
+* Timetable page-The user should be able to book classes straight from the timetable by clicking on the class name, rather than having to log in to the portal first.
+
+* Instructor page: The user should be able to click on the thumbnail images of the instructors, and the images should flip, allowing the user to see more thorough information about the user.
+
+## TECHNOLOGIES USED 
+
+#### LANGUAGES USED : 
+* HTML5
+* CSS3 
+
+#### FRAMEWORKS,LIBRARIES AND PROGRAM USED 
+
+1. [BOOTSTRAP 4.0](https://getbootstrap.com/docs/4.6/getting-started/introduction/): This was utilized to help with the website's structure, style, and responsiveness.
+
+2. [FONTAWESOME](https://fontawesome.com/): This was used to offer icons on various pages to improve the site's design and convey information.
+
+3. [LORDICONS](https://lordicon.com/icons): This was utilized to transmit information while also beautifying the page's appearance. Visit site .
+
+4. [GOOGLE FONTS](https://fonts.google.com/specimen/EB+Garamond?query=eb+garamond): The fonts Oswald and EB Garamond were imported into the stylesheet for use in the project.
+
+5. [FIGMA] (https://www.figma.com/): During the design phase, this was used to develop wireframes (for mobile and desktop devices) for FLYBODY gym. 
+
+6. GIT: This was the preferred method of version control. To commit and publish our product to github, we used the gitpod.
+
+7. [GITHUB](https://github.com/): This is where the project's code is stored.
+
+8. [CHROME DEV TOOLS]() : This was used to test our site's responsiveness across various screen sizes.
+
+9. [Visual Studio code](https://code.visualstudio.com/): used for writing and testing out the project’s code to avoid internet connection interference.  
+
+
+## TESTING 
+This can be found in another file called [TEST.md](test.md)
+
+## DEPLOYMENT 
+1. GITHUB PAGES 
+This project was deployed using GitHub Pages. These are the actions taken to deploy this project. 
+* Log in to GitHub and navigate to the repository to be deployed, which in our instance is located here.
+* Click on one of the button options presented at the top of our repository, which is "Settings."
+* After you've clicked it, go down to the bottom of the website to the Github Pages section and click the link "Check it out here."
+* This opens the GitHub Pages tab. Select "Master" from the dropdown list under "source" and press "save."
+* Once the modifications are saved, the page will instantly refresh, displaying the link to the deployed site above the “source ” part on github pages.
+* Please keep in mind that clicking the link may alert the user that the page has not yet been deployed; however, this is not a problem; simply wait two minutes for it to refresh on the server and the site will be deployed.
