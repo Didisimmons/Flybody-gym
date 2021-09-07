@@ -16,7 +16,7 @@ The website would foster a community in which people could constantly motivate o
 
 FLYBODY is a website that encourages people to meet up for workout sessions or personal training on a regular basis. To create a community in which people can constantly motivate, socialize, and hold one another responsible for their fitness goals. The site would target people of all ages who want to stay fit, need motivation to get started, and are searching for a fitness community to join. FLYBODY would show the benefits of joining their community, how to join, and the advantages of FLYBODY over competitors.
 
-### Businness Goals
+#### Businness Goals
 As a gym owner I want to : 
 * Keep and attract new consumers so that we can generate constant revenue.
 * Understand our clients' wants and issues so that we may provide them with the greatest customer experience possible and personalize programs to each individuals demand.        
@@ -28,7 +28,7 @@ As a gym owner I want to :
 * Create a robust  website that is easy to maintain and keep up to date with current 
 information.
 
-### User Goals 
+#### User Goals 
 As a customer I want to :
 * Easily navigate the site and get the information I need to take the necessary action.
 * Be able to readily discover FLYBODY online on their social networks to ensure that the information and locations supplied are legitimate and trustworthy.
@@ -38,6 +38,10 @@ As a customer I want to :
 * The site should be visually appealing in order to keep me interested and present appealing offers on the site.
 * Log in to my account quickly and easily to track my fitness goals, book classes, and engage with the rest of the fitness community.
 * Find low-cost memberships that can be tailored to my needs without breaking the budget.
+
+#### Wireframes:   
+The wireframe for the entire site is available [here](https://www.figma.com/file/8qHDfvLP2VWCYEGpWECjkS/FLYBODY?node-id=0%3A1).  This shows the site on both a desktop and a mobile device, with some tablet view wireframes indicating when the screen view is different.
+
 
 
 
