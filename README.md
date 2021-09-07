@@ -1,6 +1,6 @@
-#FLYBODY
+# FLYBODY
 
-[Deployed site](https://didisimmons.github.io/Flybody-gym/)
+[View deployed site](https://didisimmons.github.io/Flybody-gym/)
 
 #### Overview of project: 
 FLYBODY is a fitness website in Nigeria designed to educate and inspire people about the benefits of fitness and good health. How incorporating an exercise routine into our daily lives might alter our way of life. One of the major issues that fitness websites face in the fitness industry is a lack of sufficient motivation for people to engage in memberships or join fitness programs/workouts.
@@ -16,7 +16,7 @@ The website would foster a community in which people could constantly motivate o
 
 FLYBODY is a website that encourages people to meet up for workout sessions or personal training on a regular basis. To create a community in which people can constantly motivate, socialize, and hold one another responsible for their fitness goals. The site would target people of all ages who want to stay fit, need motivation to get started, and are searching for a fitness community to join. FLYBODY would show the benefits of joining their community, how to join, and the advantages of FLYBODY over competitors.
 
-#### Businness Goals
+#### Business Goals
 As a gym owner I want to : 
 * Keep and attract new consumers so that we can generate constant revenue.
 * Understand our clients' wants and issues so that we may provide them with the greatest customer experience possible and personalize programs to each individuals demand.        
@@ -42,21 +42,26 @@ As a customer I want to :
 
 ## DESIGN
 * Colour Scheme
-    - The colours used on the site were picked from Glebstock's adobe palette. www.color.adobe.com/search?q=gym.
+
+    - The colours used on the site were picked from Glebstock's adobe [palette](www.color.adobe.com/search?q=gym.)
     - FLYBODY's brand is represented by the palette. The colours were chosen to convey trust and honesty to the user throughout the website, as well as cleanliness and simplicity.
 * Typography
+
   - To ensure consistency, the Oswald and EB Garamond fonts are used throughout the site. The two fonts give our site a distinct personality and elegance, as well as an appealing appearance.
 * Imagery 
+
   - The photos featured throughout the site were obtained from free image providers such as Unsplash, Pexels, Pixibay, and so on.
    
    - The photographs portray a modern aesthetic gym where members are having fun using the gym's facilities and equipment, as well as the energy that can be expected there. The graphics' purpose is to draw viewers' attention to the FLY BODY website, where they may register and join the community.
 
-#### Wireframes:   
+#### Wireframes:  
+
 The wireframe for the entire site is available [here](https://www.figma.com/file/8qHDfvLP2VWCYEGpWECjkS/FLYBODY?node-id=0%3A1).  This shows the site on both a desktop and a mobile device, with some tablet view wireframes indicating when the screen view is different.
 
 
-## FEATURES 
- On each of the five pages, a fully responsive navigation bar has been included. The navigation bar is made up of the gym's emblem on the far left and five different links on the right. On a mobile device, the five individual links condense into a hamburger icon in the menu bar, while the logo on the left side remains unchanged.
+## FEATURES
+
+On each of the five pages, a fully responsive navigation bar has been included. The navigation bar is made up of the gym's emblem on the far left and five different links on the right. On a mobile device, the five individual links condense into a hamburger icon in the menu bar, while the logo on the left side remains unchanged.
 
 Each of the five pages has a footer with information about the head office location, additional locations present, a contact phone number, social media icons for their social media presence, and a call to action button to join FLYBODY's community. The social media links offer the user with a sense of trust and allow for involvement across their channels. The primary goal of the call to action button is to aggressively convert our users into potential clients by shortening the conversion funnel process.
 
@@ -144,7 +149,8 @@ This page, like the other ones, has a responsive navigation bar, but there is no
 
 The page also has a footer that contains the same information as before.
 
-### EXISTING FEATURES 
+### Existing Features
+
 * Navigation bar : This is present in all pages to allow the user to navigate through the different pages available easily without having to use the back button to go back to each the pages.
 
 * Header logo – The company’s logo FLYBODY is present in the navigation bar and represents the brand’s image . The user can click on this logo to return to the homepage whenever they leave the homepage to another page than using the home button not present. 
@@ -197,7 +203,7 @@ The page also has a footer that contains the same information as before.
 
 4. [GOOGLE FONTS](https://fonts.google.com/specimen/EB+Garamond?query=eb+garamond): The fonts Oswald and EB Garamond were imported into the stylesheet for use in the project.
 
-5. [FIGMA] (https://www.figma.com/): During the design phase, this was used to develop wireframes (for mobile and desktop devices) for FLYBODY gym. 
+5. [FIGMA](https://www.figma.com/): During the design phase, this was used to develop wireframes (for mobile and desktop devices) for FLYBODY gym. 
 
 6. GIT: This was the preferred method of version control. To commit and publish our product to github, we used the gitpod.
 
@@ -205,18 +211,122 @@ The page also has a footer that contains the same information as before.
 
 8. [CHROME DEV TOOLS]() : This was used to test our site's responsiveness across various screen sizes.
 
-9. [Visual Studio code](https://code.visualstudio.com/): used for writing and testing out the project’s code to avoid internet connection interference.  
+9. [Visual Studio code](https://code.visualstudio.com/): This was used for writing and testing out the project’s code to avoid internet connection interference.  
 
 
 ## TESTING 
 This can be found in another file called [TEST.md](test.md)
 
 ## DEPLOYMENT 
+
 1. GITHUB PAGES 
 This project was deployed using GitHub Pages. These are the actions taken to deploy this project. 
+
 * Log in to GitHub and navigate to the repository to be deployed, which in our instance is located here.
 * Click on one of the button options presented at the top of our repository, which is "Settings."
 * After you've clicked it, go down to the bottom of the website to the Github Pages section and click the link "Check it out here."
 * This opens the GitHub Pages tab. Select "Master" from the dropdown list under "source" and press "save."
 * Once the modifications are saved, the page will instantly refresh, displaying the link to the deployed site above the “source ” part on github pages.
 * Please keep in mind that clicking the link may alert the user that the page has not yet been deployed; however, this is not a problem; simply wait two minutes for it to refresh on the server and the site will be deployed.
+
+2. FORKING THE GITHUB REPOSITORY
+
+By forking the GitHub repository, we create a clone of the original repository in our Github account. This allows us to make modifications to the files without affecting the original repository.    
+
+* Please sign in to your GitHub account. 
+* Locate the repository to be duplicated, in this case [FLYBODY](https://github.com/Didisimmons/Flybody-gym).
+* Locate and click the “Fork” button at the top of the FLYBODY repository page. 
+* This creates a copy of the repository in our account, allowing us to make modifications.
+
+3. MAKING A LOCAL CLONE. 
+* Please sign in to your GitHub account. 
+* Locate the desired repository in this case [FLYBODY](https://github.com/Didisimmons/Flybody-gym).
+* Locate the “Code” button at the top of the FLYBODY repository page. Click it and copy the HTTPS link that appears. 
+* Activate your local IDE terminal. 
+* Change the current working directory to the location where you wish the cloned file to be saved. 
+* In the terminal, type “git clone” and then paste the link copied from HTTPS. 
+* git clone https://github.com/Didisimmons/Flybody-gym.git 
+* The clone has been made once you press enter.
+
+4. DOWNLOAD AND EXTRACT ZIP FILE FROM GITHUB.  
+* Please sign in to your GitHub account. 
+* Find the desired repository, in this case [FLYBODY](https://github.com/Didisimmons/Flybody-gym).  
+* Locate the “Code” button at the top of the FLYBODY repository page. Click it and select “download ZIP” . 
+* Once this is downloaded, us any decompressing tool to open the zip file. 
+* Once the file has been opened, any IDE of choice can be used to edit file. 
+Activate your local IDE terminal.
+
+
+## CREDITS 
+
+#### CONTENT 
+* The code used to construct  the hero image for all web pages was borrowed from the [whiskey project at the code institute](https://github.com/Didisimmons/Bootstrap-project1/blob/master/index.html).
+
+* The icons in the more facilities area of the homepage were inspired by another [fitness website](https://strong.zumba.com/en-US/pages/class), which aided in the arrangement of the icons. 
+
+* The inspiration for the site's design came from extensive online study on various gyms accessible, such as [Ignite](https://ignitefitness.com/rates/),[celebrity fitness](https://www.celebrityfitness.com.ph/) and [Zumba](https://strong.zumba.com/en-US/)
+
+* The design of the login page was influenced by another[fitness website](https://www.zumba.com/en-US)
+
+* Code assistance with the positioning of team member photographs on the homepage and instructors on the teacher page was obtained from another peer's project [here](https://vanessacleary.github.io/vanessacleary-Ms1-2021/index.html#home-section) in code institute.
+
+* Code assistance from another coding institute peer was used to help with the placement of the photos in the facilities [section](https://deannacarina.github.io/travelcaribbean/index.html). 
+
+* This readme document was based on research on several readme documents such as the code institute's readme [sample](https://github.com/Code-Institute-Solutions/SampleREADME), the ajgreaves readme [sample](https://github.com/AJGreaves/portrait-artist/blob/master/README.md#anna-gilhespy), and the code institute's love running project [sample](https://github.com/Code-Institute-Solutions/readme-template).
+
+
+#### MEDIA
+
+The images used on the website were obtained from image suppliers such as pexels, unsplash, and shopify burst.
+
+* The image used as the banner for the homepage is a photo by Karsten Winegeart from [unsplash](https://unsplash.com/photos/Jc-UCKGhIlU).
+
+*	The about us section image is a photo by Alex Starnes from  [unsplash](https://unsplash.com/photos/tbYPDBChsZU). 
+
+*	The Facilities part is divided into three sections, and the images used were obtained from the following individuals:
+
+   - Cardio & weight lifting area – Photo by Dushane White from [unsplash](https://unsplash.com/photos/3IbnOuxXST4). 
+
+   - Swimming & Sauna area – Photo by HUUM from [unsplash](https://unsplash.com/photos/xn_MghoT9HE).
+
+   - Cycling & Playground area –Photo by Andrea Piacquadio from [pexels](https://www.pexels.com/photo/young-ethnic-woman-with-fit-ball-sitting-on-floor-while-training-in-modern-gym-3768593/).
+
+* A background photo can be found in the reviews section by Scott Webb from [unsplash](https://unsplash.com/photos/JNPvv1u8yRg). 
+
+* The photos used for the team members were taken from : 
+    - For Jennifer Olaitan  – Photo by Alex Starnes from [unsplash](https://unsplash.com/photos/PK_t0Lrh7MM). 
+    -	For Pearl Olatunde – Photo by Ketut Subiyanto from [pexels](https://www.pexels.com/photo/cheerful-woman-with-notebook-sitting-at-table-4350097/).
+    - For Ross Ajayi  – Photo by Brooke Cagle from [unsplash](https://unsplash.com/photos/Nm70URdtf3c).
+    - For James Nwobodo-  Photo by Mike Von from [unsplash](https://unsplash.com/photos/fHwuDivva_w).
+
+* The image used on the rates page as the hero image is a photo by Karsten Winegeart from [unsplash](https://unsplash.com/photos/0Wra5YYVQJE).
+
+* The hero image on the timetable page is a photo by Sven Mieke from [unsplash][(https://unsplash.com/photos/MsCgmHuirDo).
+
+* The background hero image for the instructors page is a photo from Marcos Paulo Prado from [unsplash](https://unsplash.com/photos/-k7WRj0E64Q). 
+
+* The images of the instructors are taken from : 
+ - For Abayomi Daniels – Photo by Abdullah Ali from [unsplash](https://unsplash.com/photos/L2Nw-onZOX4). 
+
+ - For Faith Mola  – Photo by  Samantha Hurley from burst [shopify](https://unsplash.com/photos/L2Nw-onZOX4).
+
+ - For Chris Akagbu  – Photo by karsten Winegeart from [unsplash]((https://unsplash.com/photos/JfN0kpooAyw)).
+
+ - For Lilian Esoyo-  Photo by Madison Lavern from [unsplash](https://unsplash.com/photos/4gcqRf3-f2I).
+
+ - For Keffi Chuku-  Photo by Omid Armin from [unsplash](https://unsplash.com/photos/89poi2aVXX0).
+
+ - For Brenda Hynes - Photo by Alora Griffiths from [unsplash] (https://unsplash.com/photos/PLmA2IY8z3U).
+
+ - For Brown Philip -  Photo by Pikx by Panther from [pexels] (https://www.pexels.com/photo/photo-of-man-with-muscular-body-1547248/).
+
+ - For Rita Baj- Photo by Styves Exantus from [pexels](https://www.pexels.com/photo/city-fashion-people-woman-8437651/).
+
+* On the Login page, the  hero image is taken from [pexels](https://www.pexels.com/photo/light-man-beach-people-6388377/) by Tima miroshnichenko. 
+
+* The hero image on the join us page  is taken from karsten Winegeart by [unsplash] (https://unsplash.com/photos/w6BHqa8ukc0).
+
+* The hero image used on the thanks page is taken from Victor Frietas by [unsplash] (https://unsplash.com/photos/WvDYdXDzkhs).
+
+
+
