@@ -9,7 +9,7 @@
 ### Validator Testing 
 * [W3C CSS validation](https://jigsaw.w3.org/css-validator/): This is used to validate the CSS code used on all six webpages created. Our code is found to be error-free by the validator. Please see the screenshot below. 
 
-![css_validation_cofirmation](css_validation.png)
+![css_validation_cofirmation](assets/images/css_validation.png)
 
 * [W3C Markup Validation](https://validator.w3.org/): This is also used to check the validity of the html code for all the  six webpages created. Our code was found to be error-free by the validator. See screenshot below for all pages. 
 
@@ -21,7 +21,7 @@
 
 ![instructors validation](assets/images/instructors_validation.png)
 
-![joinus validation](assets/images/joinus-validation.png)
+![joinus validation](assets/images/joinus_validation.png)
 
 ![thank you](assets/images/thanks_validation.png)
 
@@ -43,70 +43,70 @@ When the screen width is set to a desktop view, the FLYBODY logo on all devices 
   
   As a customer I want to 
 
-    1. Easily navigate the site and get the information I need to take the necessary action
+1. Easily navigate the site and get the information I need to take the necessary action
 
-        1. All of the webpages contain a navigation bar with five clearly labelled weblinks that, when clicked, take the user to different activities and examine different information about FLYBODY.
+     1. All of the webpages contain a navigation bar with five clearly labelled weblinks that, when clicked, take the user to different activities and examine different information about FLYBODY.
 
-        2. When the FLYBODY logo is clicked, it takes the user to the home page.
+    2. When the FLYBODY logo is clicked, it takes the user to the home page.
 
-        3. The user can navigate down the webpage to see the perks, deals, and take various tasks, as well as learn more about the gym.
+    3. The user can navigate down the webpage to see the perks, deals, and take various tasks, as well as learn more about the gym.
 
-        4. All of the call to action buttons on the webpages either redirect the user to another page or open a form to be filled out, which notifies the user of the next action once completed.
+    4. All of the call to action buttons on the webpages either redirect the user to another page or open a form to be filled out, which notifies the user of the next action once completed.
 
-        5. When any of the buttons on the website is clicked, it opens on a new window to avoid bad user experience .
-
-
-    2. Be able to readily discover FLYBODY online on their social networks to ensure that the information and locations supplied are legitimate and trustworthy.
-
-        1. FLYBODY has published their social media handles at the bottom of all webpages, which the user can easily click on and be sent to their social media accounts to validate legitimacy.
-
-        2. In the about us part on the home page, a brief history of FLYBODY is offered, as well as the names and levels of competence of its team members. The user can simply check their legitimacy by researching their names/credentials online.
-
-        3. The instructors website also includes information on all of the trainers, including their areas of specialization and years of experience. The user can readily authenticate the expertise of these teachers by researching them on their social media sites.
-
-        4. To build trust with users, a reviews area has been included to display users feedback from real users from various industries to hear their thoughts on FLYBODY. This can have an impact on the users' trust in the brand.
-
-        5. The footer of every pages includes a phone number and the location of the company's headquarters, which can be confirmed using Google Maps. To ensure validity, the phone number can also be contacted.
+    5. When any of the buttons on the website is clicked, it opens on a new window to avoid bad user experience .
 
 
-    3. Easily examine the gym's fees as well as their locations so that I can quickly determine if it fits my budget and is close by.
+2. Be able to readily discover FLYBODY online on their social networks to ensure that the information and locations supplied are legitimate and trustworthy.
 
-        1. On all webpages, the customer will see the rates pricing page, which displays all of the memberships offered by FLYBODY and allows them to choose one that meets their budget.
+    1. FLYBODY has published their social media handles at the bottom of all webpages, which the user can easily click on and be sent to their social media accounts to validate legitimacy.
 
-        2. The user can see other FLYBODY locations in the footer section and see if it is close to them. To confirm the address and costs, users can call the phone number. 
+    2. In the about us part on the home page, a brief history of FLYBODY is offered, as well as the names and levels of competence of its team members. The user can simply check their legitimacy by researching their names/credentials online.
+
+    3. The instructors website also includes information on all of the trainers, including their areas of specialization and years of experience. The user can readily authenticate the expertise of these teachers by researching them on their social media sites.
+
+    4. To build trust with users, a reviews area has been included to display users feedback from real users from various industries to hear their thoughts on FLYBODY. This can have an impact on the users' trust in the brand.
+
+    5. The footer of every pages includes a phone number and the location of the company's headquarters, which can be confirmed using Google Maps. To ensure validity, the phone number can also be contacted.
 
 
-     4. View the class schedules and conveniently book/join classes online.
+3. Easily examine the gym's fees as well as their locations so that I can quickly determine if it fits my budget and is close by.
 
-        1. There is a clearly labelled timetable page on the navigation bar on all webpages that provides the days and times for the classes offered at FLYBODY. The user may quickly hover over the classes to see the dates and timings.
+    1. On all webpages, the customer will see the rates pricing page, which displays all of the memberships offered by FLYBODY and allows them to choose one that meets their budget.
 
-        2. Instructions on how to book a class online and in person can also be found on the timetable page under the timetable. 
+    2. The user can see other FLYBODY locations in the footer section and see if it is close to them. To confirm the address and costs, users can call the phone number. 
+
+
+4. View the class schedules and conveniently book/join classes online.
+
+    1. There is a clearly labelled timetable page on the navigation bar on all webpages that provides the days and times for the classes offered at FLYBODY. The user may quickly hover over the classes to see the dates and timings.
+
+    2. Instructions on how to book a class online and in person can also be found on the timetable page under the timetable. 
         
-    5. Be able to easily locate a personal trainer online and learn more about them so I know what to expect.
+5. Be able to easily locate a personal trainer online and learn more about them so I know what to expect.
 
-        1.	On the navigation bar, which is accessible on all pages, there is a clearly visible instructor page that displays all of the trainers at FLYBODY.
+    1.	On the navigation bar, which is accessible on all pages, there is a clearly visible instructor page that displays all of the trainers at FLYBODY.
 
-        2.	The instructor page displays thumbnail photographs of the trainers along with their names, areas of specialization, and years of experience. This can affect the user's selection on which trainer they want to work with and, if necessary, research more about them or call in to arrange a session.
+    2.	The instructor page displays thumbnail photographs of the trainers along with their names, areas of specialization, and years of experience. This can affect the user's selection on which trainer they want to work with and, if necessary, research more about them or call in to arrange a session.
      
-     6. The site should be visually appealing in order to keep me interested and present appealing offers on the site.
+6. The site should be visually appealing in order to keep me interested and present appealing offers on the site.
 
-        1. Images have been used on all of the webpages to enhance the site and appeal to the experience that can be expected at FLYBODY. To make the site more visually appealing, icons have been utilized to convey certain information.
+    1. Images have been used on all of the webpages to enhance the site and appeal to the experience that can be expected at FLYBODY. To make the site more visually appealing, icons have been utilized to convey certain information.
 
-        2. When a user clicks on the FLYBODY logo and is redirected to the homepage, the user can view all of the services and perks provided by FLYBODY.
+    2. When a user clicks on the FLYBODY logo and is redirected to the homepage, the user can view all of the services and perks provided by FLYBODY.
 
-        3. When a user arrives at the home page, there is a call to action button tempting the visitor to sign up for a low cost with no deposit required. When the user clicks, a form appears for the user to fill out, which takes less than a minute and, when done, brings the user to FLYBODY's thank you page.
+    3. When a user arrives at the home page, there is a call to action button tempting the visitor to sign up for a low cost with no deposit required. When the user clicks, a form appears for the user to fill out, which takes less than a minute and, when done, brings the user to FLYBODY's thank you page.
 
-        4. The prices page on the navigation bar also offers inexpensive membership costs with packages that suit different people's budgets if they join FLYBODY.
+    4. The prices page on the navigation bar also offers inexpensive membership costs with packages that suit different people's budgets if they join FLYBODY.
 
-    7.	Log in to my account quickly and easily to track my fitness goals, book classes, and engage with the rest of the fitness community.
+ 7.	Log in to my account quickly and easily to track my fitness goals, book classes, and engage with the rest of the fitness community.
 
-        1. The navigation bar, which is visible on all pages, contains a clearly labelled login page that, when clicked, displays one column requesting the user for their login credentials to enter their portal.
+    1. The navigation bar, which is visible on all pages, contains a clearly labelled login page that, when clicked, displays one column requesting the user for their login credentials to enter their portal.
 
-        2.	In the future, after users log in to their portal, they will be able to track their fitness goals, book classes, and interact with other users via the fitness community.
+    2.	In the future, after users log in to their portal, they will be able to track their fitness goals, book classes, and interact with other users via the fitness community.
 
-    8. 	Find low-cost memberships that can be tailored to my needs without breaking the budget.  
+8. 	Find low-cost memberships that can be tailored to my needs without breaking the budget.  
 
-        1. The user can view the many membership plans offered by FLYBODY and choose one that fits their budget on the pricing page (rates) , which is accessible via the navigation bar on all pages.
+    1. The user can view the many membership plans offered by FLYBODY and choose one that fits their budget on the pricing page (rates) , which is accessible via the navigation bar on all pages.
 
 
 ### TESTING OF ALL FEAUTURES AND ELEMENTS ON THE PAGE
@@ -121,27 +121,27 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 
      2. Change the desktop's screen size to that of a tablet device to ensure that the navigation bar is responsive and changes to a hamburger dropdown symbol when the medium break point is reached. The navigation bar should be positioned correctly, with the menu items in place.
 
-    There was no overflow of the navbar or undesirable modifications to the menu items when testing the responsiveness of the navbar. The navigation bar changed to a hamburger dropdown symbol with the dropdown menu items in situ, as intended.
+      There was no overflow of the navbar or undesirable modifications to the menu items when testing the responsiveness of the navbar. The navigation bar changed to a hamburger dropdown symbol with the dropdown menu items in situ, as intended.
 
     3. Hover over the alert dismissive message button and make sure it does not create any undesirable changes to the navigation bar when exited.
 
-     When tested on all devices, the alert dismissive button shuts without impeding the navigation bar. The navigation bar is still present, as expected.
+      When tested on all devices, the alert dismissive button shuts without impeding the navigation bar. The navigation bar is still present, as expected.
 
     4. Hover your mouse over the navbar menu items and click on each link to ensure that it takes you to the relevant page.
 
-    When tested on all devices , the menu links function as intended. Linking to the  appropriate sites.
+      When tested on all devices , the menu links function as intended. Linking to the  appropriate sites.
 
     5. Click on the FLYBODY logo to ensure that it takes you to the home page when you click on it. 
 
-    Testing this on all devices by adjusting the screen width it can be seen the brand logo “FLYBODY” links to the home page whenever clicked.
+      Testing this on all devices by adjusting the screen width it can be seen the brand logo “FLYBODY” links to the home page whenever clicked.
 
     6. Change the screen size to that of a tablet or mobile device and check that the hamburger icon appears. Also, make sure that the dropdown menu links from the hamburger icon have a background overlay when hovered over and that they all lead to the relevant pages.
 
-    When the screen width of the navigation bar is changed to that of a tablet device, the navigation bar responds as expected, and the hamburger icon appears. When you click the hamburger icon, a dropdown menu emerges, displaying the menu links, which have a light grey background overlay when hovered and link to the proper pages when clicked. When the hamburger icon was pressed, the dropdown menu links were properly aligned. The menu items, however, have been centred to improve the appearance of the navigation bar on a tablet and mobile device.
+      When the screen width of the navigation bar is changed to that of a tablet device, the navigation bar responds as expected, and the hamburger icon appears. When you click the hamburger icon, a dropdown menu emerges, displaying the menu links, which have a light grey background overlay when hovered and link to the proper pages when clicked. When the hamburger icon was pressed, the dropdown menu links were properly aligned. The menu items, however, have been centred to improve the appearance of the navigation bar on a tablet and mobile device.
 
     7. Hover over the menu items on a desktop to ensure that a light grey background overlay appears when hovered.
 
-    When the effect was tested on a desktop device by hovering the mouse over the menu item in the navigation bar, the light grey backdrop appeared.
+       When the effect was tested on a desktop device by hovering the mouse over the menu item in the navigation bar, the light grey backdrop appeared.
 
 2. Hero image  
 
@@ -149,17 +149,17 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 
     2. Confirm that the hero image is visible and takes up the entire width of the screen.
 
-    When tested on a desktop, the hero image occupies the full screen width with no overflow problems. Changing the screen size to a tablet /mobile device the same effect still takes place, the hero image occupies the full screen width . 
+      When tested on a desktop, the hero image occupies the full screen width with no overflow problems. Changing the screen size to a tablet /mobile device the same effect still takes place, the hero image occupies the full screen width . 
 
     3. When the alert dismissing message appears above the navigation bar, make sure the hero image is still visible with the text overlay on it. Check to ensure that the overlay does not obscure any functionalities.
     
-    When tested on a desktop device, the hero picture fills the entire screen width, despite the presence of the navigation bar and the alert dismissing message above it. The alert message, on the other hand, extends down the navigation bar, blocking some text on the hero image. This is remedied by increasing the text's padding. This new fix has no effect on any of the other features.
+       When tested on a desktop device, the hero picture fills the entire screen width, despite the presence of the navigation bar and the alert dismissing message above it. The alert message, on the other hand, extends down the navigation bar, blocking some text on the hero image. This is remedied by increasing the text's padding. This new fix has no effect on any of the other features.
 
-    When doing the above-mentioned tests (III) on a tablet and mobile device, when the alert dismissing message appears above the navigation bar. The alert message pushed down the navigation bar, obscuring some text, and the overlay on top of the image was overflowing. This was corrected by raising the height of the hero image on both tablet and mobile devices. Changing the height of the hero picture based on the device breakpoint
+       When doing the above-mentioned tests (III) on a tablet and mobile device, when the alert dismissing message appears above the navigation bar. The alert message pushed down the navigation bar, obscuring some text, and the overlay on top of the image was overflowing. This was corrected by raising the height of the hero image on both tablet and mobile devices. Changing the height of the hero picture based on the device breakpoint
 
     4. When the alert dismissal message is exited above the navigation bar, check that the hero picture is still displayed on all devices.
 
-    On a desktop device, the hero picture fills the entire screen, the overlay is in place, and the hero image text is well within the image.
+       On a desktop device, the hero picture fills the entire screen, the overlay is in place, and the hero image text is well within the image.
 
     Running the same test on a tablet found out that the text on the hero image was so enormous that it was spilling over the edge of the image. This was corrected by adding classes to the hero image text and the call to action button to minimize the size of the elements when a specified breakpoint was reached. The font size and button size of the items on the hero picture were fixed by these classes. After implementing the patch, the hero image was still visible, with all of its components responsively and in the relevant places. 
 
@@ -442,31 +442,31 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 
 	2. Confirm that the body of the login page is divided into two equal columns that allow the user to either create an account or login to their profile. The material should be responsive. 
 
-    When tested on a desktop device, it can be noticed that there are two columns that allow the user to make an account and login to their profile, which are both visible and have a divider between them. As the screen width is changed, the two columns, as well as the divider, adjust proportionately. On a tablet or mobile device, the two columns overlap. The create an account content displays first and takes up the entire screen width, while the login content appears below the make an account column, which also takes up the entire screen width. The login page content is responsive, with the font size and divider changing to screen sizes as expected. 
+       When tested on a desktop device, it can be noticed that there are two columns that allow the user to make an account and login to their profile, which are both visible and have a divider between them. As the screen width is changed, the two columns, as well as the divider, adjust proportionately. On a tablet or mobile device, the two columns overlap. The create an account content displays first and takes up the entire screen width, while the login content appears below the make an account column, which also takes up the entire screen width. The login page content is responsive, with the font size and divider changing to screen sizes as expected. 
 
 	3. Confirm the “create an account” button, and the “Sign In” button wording changes colour as the user lingers over it.
 
-    When doing this test, it is clear that when the mouse is hovered over each of the buttons, the text colour changes to blue, as predicted. 
+       When doing this test, it is clear that when the mouse is hovered over each of the buttons, the text colour changes to blue, as predicted. 
 
 	4. Check that the “create an account” button responds when clicked and opens a form that requires you to fill out all fields in order to submit the form, which when completed successfully leads to the thank you page.
 
-    Performing this test reveals that when the “create an account” button is clicked, the form that appears is the same as the one used on the hero image call to action button. It is necessary for the user to complete out all of the fields before they may submit as intended. When the form is completed, the user is directed to the expected thank you page. The button responds to all screen sizes.
+       Performing this test reveals that when the “create an account” button is clicked, the form that appears is the same as the one used on the hero image call to action button. It is necessary for the user to complete out all of the fields before they may submit as intended. When the form is completed, the user is directed to the expected thank you page. The button responds to all screen sizes.
 
-   5. Check that clicking the “Sign In” button gets the user to the thank you page and that the button is responsive on all devices.
+    5. Check that clicking the “Sign In” button gets the user to the thank you page and that the button is responsive on all devices.
+   
+       Testing this on all devices reveals that in order for the user to "Sign in" to their profile, they must complete out all forms before they can login. When the form is completed entirely, the user is forwarded to the expected thank you page.
 
-    Testing this on all devices reveals that in order for the user to "Sign in" to their profile, they must complete out all forms before they can login. When the form is completed entirely, the user is forwarded to the expected thank you page.
+    6. Confirm that the forgot password "Click here" link works and takes the user to the relevant page.
 
-   6. Confirm that the forgot password "Click here" link works and takes the user to the relevant page.
-
-    Testing this on all devices reveals that when the “Click here” link is clicked, the user gets directed to the home page as predicted.
+       Testing this on all devices reveals that when the “Click here” link is clicked, the user gets directed to the home page as predicted.
 
 	7. Check that the forgot my password "Click here" link works and that it changes colour when the user has previously visited the page. 
 
-    When tested on all devices, it can be seen that when the link is clicked, the link color changes to maroon, as predicted, because the page has previously been clicked and visited.
+       When tested on all devices, it can be seen that when the link is clicked, the link color changes to maroon, as predicted, because the page has previously been clicked and visited.
 
     8. Check that the “Click here” link changes colour when hovered, and that the “Click here” link changes colour if the user has already visited the page.
 
-    When tested on all devices, it can be seen that when the mouse is hovered over the “Click here” link, the colour changes to blue, and when the user views the website, the link colour changes to maroon because the page has been visited.
+        When tested on all devices, it can be seen that when the mouse is hovered over the “Click here” link, the colour changes to blue, and when the user views the website, the link colour changes to maroon because the page has been visited.
 
 4. 	Footer  
 
