@@ -1,59 +1,44 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+#FLYBODY
 
-Welcome USER_NAME,
+[Deployed site](https://didisimmons.github.io/Flybody-gym/)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+#### Overview of project: 
+FLYBODY is a fitness website in Nigeria designed to educate and inspire people about the benefits of fitness and good health. How incorporating an exercise routine into our daily lives might alter our way of life. One of the major issues that fitness websites face in the fitness industry is a lack of sufficient motivation for people to engage in memberships or join fitness programs/workouts.
 
-## Gitpod Reminders
+However, a small fraction of people are eager to begin their fitness adventure. This is FLYBODY’s  target audience; we understand that everyone has different goals, lifestyles and interests. There is no one-size-fits-all workout plan.As a result, we developed several programs to meet the needs of our clients.We are here to understand our clients'needs and provide them with the appropriate programs to assist them reach their various fitness objectives.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+We recognize that embarking on a fitness journey can be intimidating at times, especially if you are unsure of what equipment to use or which exercise programs to take.As a result, we are committed to building a fitness community at FLYBODY that provides a safe,entertaining environment for people to bond and form genuine relationships. This community would be focused on inspiring one another to reach their fitness objectives, holding one another accountable, and providing support to one another. 
 
-`python3 -m http.server`
+The website would foster a community in which people could constantly motivate one another and be proud of the benefits of being a member of a gym community.
 
-A blue button should appear to click: _Make Public_,
 
-Another blue button should appear to click: _Open Browser_.
+## PROJECT GOAL 
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+FLYBODY is a website that encourages people to meet up for workout sessions or personal training on a regular basis. To create a community in which people can constantly motivate, socialize, and hold one another responsible for their fitness goals. The site would target people of all ages who want to stay fit, need motivation to get started, and are searching for a fitness community to join. FLYBODY would show the benefits of joining their community, how to join, and the advantages of FLYBODY over competitors.
 
-A blue button should appear to click: _Make Public_,
+### Businness Goals
+As a gym owner I want to : 
+* Keep and attract new consumers so that we can generate constant revenue.
+* Understand our clients' wants and issues so that we may provide them with the greatest customer experience possible and personalize programs to each individuals demand.        
+* Create a website that is extremely user-friendly for our customers so that they would want to stay on our page.
+* Provide our clients with low fees so that registration is easily accessible to all classes of people.         
+* Strategically highlight our dedicated fitness staffs who are eager to engage with our clients so that customer satisfaction and retention rates are high.
+* Showcase a well-equipped facility that is accessible to everyone at convenient times so that users can join our exercise community and create strong interactions that lead to retention
+* Create a visually appealing site that is entertaining and draws users to our facility.
+* Create a robust  website that is easy to maintain and keep up to date with current 
+information.
 
-Another blue button should appear to click: _Open Browser_.
+### User Goals 
+As a customer I want to :
+* Easily navigate the site and get the information I need to take the necessary action.
+* Be able to readily discover FLYBODY online on their social networks to ensure that the information and locations supplied are legitimate and trustworthy.
+* Easily examine the gym's fees as well as their locations so that I can quickly determine  if it fits my budget and is close by.
+* View the class schedules and conveniently book/join classes online.
+* Be able to easily locate a personal trainer online and learn more about them so I know what to expect.
+* The site should be visually appealing in order to keep me interested and present appealing offers on the site.
+* Log in to my account quickly and easily to track my fitness goals, book classes, and engage with the rest of the fitness community.
+* Find low-cost memberships that can be tailored to my needs without breaking the budget.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-To log into the Heroku toolbelt CLI:
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidently make it public then you can create a new one with _Regenerate API Key_.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
-
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
----
-
-Happy coding!
