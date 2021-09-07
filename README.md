@@ -205,7 +205,7 @@ The page also has a footer that contains the same information as before.
 
 5. [FIGMA](https://www.figma.com/): During the design phase, this was used to develop wireframes (for mobile and desktop devices) for FLYBODY gym. 
 
-6. GIT: This was the preferred method of version control. To commit and publish our product to github, we used the gitpod.
+6. [GIT](https://git-scm.com/): This was the preferred method of version control. To commit and publish our product to github, we used the gitpod.
 
 7. [GITHUB](https://github.com/): This is where the project's code is stored.
 
@@ -220,6 +220,7 @@ This can be found in another file called [TEST.md](test.md)
 ## DEPLOYMENT 
 
 1. GITHUB PAGES 
+
 This project was deployed using GitHub Pages. These are the actions taken to deploy this project. 
 
 * Log in to GitHub and navigate to the repository to be deployed, which in our instance is located here.
@@ -239,6 +240,7 @@ By forking the GitHub repository, we create a clone of the original repository i
 * This creates a copy of the repository in our account, allowing us to make modifications.
 
 3. MAKING A LOCAL CLONE. 
+
 * Please sign in to your GitHub account. 
 * Locate the desired repository in this case [FLYBODY](https://github.com/Didisimmons/Flybody-gym).
 * Locate the “Code” button at the top of the FLYBODY repository page. Click it and copy the HTTPS link that appears. 
@@ -249,6 +251,7 @@ By forking the GitHub repository, we create a clone of the original repository i
 * The clone has been made once you press enter.
 
 4. DOWNLOAD AND EXTRACT ZIP FILE FROM GITHUB.  
+
 * Please sign in to your GitHub account. 
 * Find the desired repository, in this case [FLYBODY](https://github.com/Didisimmons/Flybody-gym).  
 * Locate the “Code” button at the top of the FLYBODY repository page. Click it and select “download ZIP” . 
@@ -328,5 +331,12 @@ The images used on the website were obtained from image suppliers such as pexels
 
 * The hero image used on the thanks page is taken from Victor Frietas by [unsplash] (https://unsplash.com/photos/WvDYdXDzkhs).
 
+#### ACKNOWLEDGEMENTS
+
+The inspiration for this project came from online research on different gym sites around the world, which was interesting because you could see how gym sites differed for different countries, regions and people. This was taken into account when developing the FLYBODY website for Nigeria.
+
+I'd like to thank the tutor support team for their help with all of my questions, as well as for providing guidance or alternatives to resolve an issue. 
+
+I'd also like to thank my mentor, Sammy Dartnall, for her ongoing feedback and advice on how to plan and carry out this project. Even with my poor internet connection during our meetings, she was very understanding and patient. Allowing the internet connection issue to have no impact on our meeting discussions.
 
 

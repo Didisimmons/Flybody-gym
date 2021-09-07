@@ -359,10 +359,9 @@
     padding-top:20px;
     padding-bottom: 50px;
 }
-å
 
 .rounded{
-    border-radius: 1rem!important;
+    border-radius: 1rem;
 }
 
 .team-members img{
