@@ -230,7 +230,7 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 
         Testing on all devices, when the mouse is hovered over the image, the alt text appears as expected on all devices.
 
-	5. Initially, the icons used in the lighthouse test were taken from Flaticon. According to the lighthouse report, the symbols slowed down the speed and caused cached images. The symbols used now  in the more facilities section were SVG images to enhance the speed index, as recommended by  lighthouse. This is because they are easy to scale to any size while maintaining resolution
+	5. Initially, the icons used in the lighthouse test were taken from Flaticon. According to the lighthouse report, the symbols slowed down the speed and caused cached images. The symbols used now in the more facilities section were SVG images to enhance the speed index, as recommended by lighthouse. This is because they are easy to scale to any size while maintaining resolution
 
 
 6. Reviews section
