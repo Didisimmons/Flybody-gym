@@ -224,39 +224,61 @@ This can be found in another file called [TEST.md](TEST.md)
 This project was deployed using GitHub Pages. These are the actions taken to deploy this project. 
 
 * Log in to GitHub and navigate to the repository to be deployed, which in our instance is located here.
+
 * Click on one of the button options presented at the top of our repository, which is "Settings."
+
 * After you've clicked it, go down to the bottom of the website to the Github Pages section and click the link "Check it out here."
+
 * This opens the GitHub Pages tab. Select "Master" from the dropdown list under "source" and press "save."
+
 * Once the modifications are saved, the page will instantly refresh, displaying the link to the deployed site above the “source ” part on github pages.
+
 * Please keep in mind that clicking the link may alert the user that the page has not yet been deployed; however, this is not a problem; simply wait two minutes for it to refresh on the server and the site will be deployed.
+
 
 2. FORKING THE GITHUB REPOSITORY
 
 By forking the GitHub repository, we create a clone of the original repository in our Github account. This allows us to make modifications to the files without affecting the original repository.    
 
 * Please sign in to your GitHub account. 
+
 * Locate the repository to be duplicated, in this case [FLYBODY](https://github.com/Didisimmons/Flybody-gym).
+
 * Locate and click the “Fork” button at the top of the FLYBODY repository page. 
+
 * This creates a copy of the repository in our account, allowing us to make modifications.
+
 
 3. MAKING A LOCAL CLONE. 
 
 * Please sign in to your GitHub account. 
+
 * Locate the desired repository in this case [FLYBODY](https://github.com/Didisimmons/Flybody-gym).
+
 * Locate the “Code” button at the top of the FLYBODY repository page. Click it and copy the HTTPS link that appears. 
+
 * Activate your local IDE terminal. 
+
 * Change the current working directory to the location where you wish the cloned file to be saved. 
+
 * In the terminal, type “git clone” and then paste the link copied from HTTPS. 
-* git clone https://github.com/Didisimmons/Flybody-gym.git 
+
+* e.g "git clone https://github.com/Didisimmons/Flybody-gym.git" 
+
 * The clone has been made once you press enter.
 
 4. DOWNLOAD AND EXTRACT ZIP FILE FROM GITHUB.  
 
 * Please sign in to your GitHub account. 
-* Find the desired repository, in this case [FLYBODY](https://github.com/Didisimmons/Flybody-gym).  
+
+* Find the desired repository, in this case [FLYBODY](https://github.com/Didisimmons/Flybody-gym). 
+
 * Locate the “Code” button at the top of the FLYBODY repository page. Click it and select “download ZIP” . 
+
 * Once this is downloaded, us any decompressing tool to open the zip file. 
+
 * Once the file has been opened, any IDE of choice can be used to edit file. 
+
 Activate your local IDE terminal.
 
 
@@ -304,7 +326,7 @@ The images used on the website were obtained from image suppliers such as pexels
 
 * The image used on the rates page as the hero image is a photo by Karsten Winegeart from [unsplash](https://unsplash.com/photos/0Wra5YYVQJE).
 
-* The hero image on the timetable page is a photo by Sven Mieke from [unsplash] (https://unsplash.com/photos/MsCgmHuirDo)
+* The hero image on the timetable page is a photo by Sven Mieke from [unsplash](https://unsplash.com/photos/MsCgmHuirDo).
 
 * The background hero image for the instructors page is a photo from Marcos Paulo Prado from [unsplash](https://unsplash.com/photos/-k7WRj0E64Q). 
 

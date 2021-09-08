@@ -307,7 +307,7 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 2. Hero image
     1. On a desktop, navigate to the Rates page.
 
-    2. Repeat steps (I – V) on the home page's hero image to ensure the image is responsive, there is no overflow, and the hero image content looks excellent on all screen devices.
+    2. Repeat steps ( i – v ) on the home page's hero image to ensure the image is responsive, there is no overflow, and the hero image content looks excellent on all screen devices.
 
          Following the verification processes, the testing results are identical to the results displayed on the home page hero image. On a tablet or mobile device, however, there is no overflow of text or picture because the hero image height has already been adjusted on the main page, which impacts all pages. The hero image and text respond to the screen as predicted, with font sizes decreasing as the screen size shrinks. As expected, this looks good on all devices.
 
@@ -334,7 +334,7 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 
    1. On a desktop, navigate to the Rates page and scroll down to the bottom.
 
-   2. Repeat the verification procedures (I-VI) from the homepage's footer. Keeping in mind that the footer is exactly the same html code for all of the webpages to keep consistency on the site 
+   2. Repeat the verification procedures (i - vi) from the homepage's footer. Keeping in mind that the footer is exactly the same html code for all of the webpages to keep consistency on the site 
 
          When the verification stages were completed, the same results that occurred on the homepage footer were replicated here in the footer area, as expected. The form that displays when the user clicks the subscribe button, on the other hand, is modified by adding the text-centre class to centre the form information, making it more appealing to the user
 
@@ -350,7 +350,7 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 
     1. On a PC, navigate to the Timetable page. 
 
-    2. Repeat the verification steps (I–V) used on the home page's hero image to ensure the results are the same. 
+    2. Repeat the verification steps (i - v) used on the home page's hero image to ensure the results are the same. 
 
           After completing the verification processes, the hero image yields the same results as the rates page. The hero image content adapts to different screen sizes. As the screen size approaches particular breakpoints, the font size decreases or rises. On all devices, the hero image text header looks great.
 
@@ -376,7 +376,7 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 
     1. On a desktop, navigate to the Timetable page and scroll down to the footer. 
 
-    2. Repeat  the verification procedures (I-VI) from the homepage's and rates page's footer.
+    2. Repeat  the verification procedures ( i - vi) from the homepage's and rates page's footer.
 
           When same steps are applied on the timetable page, the same impact is observed. On a mobile device, the third column is hidden, but on a desktop device, the user can click the subscribe button. The user can also access FLYBODY's social media pages by clicking the social media buttons. The outcomes are as expected.
 
@@ -392,7 +392,7 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 
     1. Go to the Instructors  page on a desktop. 
 
-	2. Repeat the verification steps (I-V) applied on the hero image of the homepage to confirm the image is responsive, with no overflow and the hero image content looks good on all screen devices. 
+	2. Repeat the verification steps (i - v) applied on the hero image of the homepage to confirm the image is responsive, with no overflow and the hero image content looks good on all screen devices. 
      
          Carrying out the verification steps the results of the hero image are the same as the rates page. The hero image content is responsive to the different screen sizes and the font size reduces as the screen size reaches certain breakpoints. 
 
@@ -415,7 +415,7 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 4. 	Footer  
     1.	On a PC, go to the Timetable page and scroll down to the footer. 
 
-    2.	Repeat the verification procedures (I-VI) on the homepage's footer, rates page, and timetable page. 
+    2.	Repeat the verification procedures ( i - vi) on the homepage's footer, rates page, and timetable page. 
 
           These steps are followed on the instructor's page, the same impact is observed. However, it was discovered that the third column was not hidden on mobile devices, so a fix was added to the footer to hide the third column. This was resolved by appending the class “d-none d-sm-block” to the third column, which resolved the issue of the three columns appearing on a mobile device.
 
@@ -432,7 +432,7 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 
     1. On a desktop, go to the login page. 
 
-    2.	Repeat the verification stages (I–V) used on the homepage's hero image. 
+    2.	Repeat the verification stages (i - v ) used on the homepage's hero image. 
     
           When testing  the verification processes, the hero image produced the same results as the rates page. The content of the hero image is responsive to different screen sizes, and the text size decreases as the screen size decreases to specified lower breakpoints.
  
@@ -473,7 +473,7 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 
     1.	On a desktop, navigate to the Login page and scroll down to the footer.
 
-    2. Repeat the verification steps (I-VI) from the footer of the homepage.
+    2. Repeat the verification steps ( i - vi) from the footer of the homepage.
     
          When similar steps are followed on the login page, the same results are received as on the main page. The footer content is responsive, and as expected, the third column is hidden on mobile devices.
 
@@ -489,7 +489,7 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 
     1.	On a desktop, navigate to the Join us page. 
 
-    2. Reapply the verification methods (1–5) performed on the homepage hero image and its content. When the operations are carried out as intended, the test results match those on the rates page.
+    2. Reapply the verification methods ( i - v ) performed on the homepage hero image and its content. When the operations are carried out as intended, the test results match those on the rates page.
 
 
 3. Join Us form 
@@ -516,7 +516,7 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 
     1. Go to the Join us  page on a desktop and scroll to the footer . 
 
-    2. Repeat the verification procedures (1-6) from the homepage's footer. When these steps are followed, the same results as on the home page are obtained.
+    2. Repeat the verification procedures ( i - vi ) from the homepage's footer. When these steps are followed, the same results as on the home page are obtained.
 
 #### Thank you page 
 
@@ -530,7 +530,7 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 
     1. This page can be accessed by correctly completing out the forms on each webpage.
 
-    2. Re-do the verification procedures (1–5) from the hero image homepage. When the processes are executed as intended, the test results match those on the rates page.
+    2. Re-do the verification procedures ( i - v ) from the hero image homepage. When the processes are executed as intended, the test results match those on the rates page.
 
 
 3. Thank you page content 
@@ -546,7 +546,7 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 
     1. On a desktop, navigate to the Join us page and scroll down to the bottom. 
 
-    2. Repeat the verification procedures (1-6) from the homepage's footer. By following the instructions, it is possible to see that the same results as on the home page are obtained here. The footer content is responsive, and on smaller devices, the third column is hidden.
+    2. Repeat the verification procedures ( i - vi) from the homepage's footer. By following the instructions, it is possible to see that the same results as on the home page are obtained here. The footer content is responsive, and on smaller devices, the third column is hidden.
 
 
 ## FURTHER TESTING 
@@ -573,6 +573,21 @@ Here are some screenshots for the lightouse test on devices:
 ![lighthouse_mobile_screenshot_for_homepage](assets/images/lighthouse_homepage_mobile.png)
 
 ![lighthouse_mobile_screenshot_for_ratespage](assets/images/lighthouse_mobile_for_rates_page.png)
+
+![lighthouse_desktop_screenshot_for_ratespage](assets/images/lighthouse_desktop_for_rates.png)
+
+![lighthouse_mobile_screenshot_for_timetablepage](assets/images/timetable_lighthouse_mobile.png)
+
+![lighthouse_desktop_screenshot_for_timetablepage](assets/images/timetable_desktop_lighthouse.png)
+
+![lighthouse_mobile_screenshot_for_instructors](assets/images/lighthouse_mobile_screenshot_for_instructors.png)
+
+![lighthouse_desktop_screenshot_for_instructors](assets/images/desktop_screenshot_for_instructors.png)
+
+![lighthouse_desktop_screenshot_for_timetablepage](assets/images/timetable_lighthouse_mobile.png)
+
+![lighthouse_desktop_screenshot_for_timetablepage](assets/images/timetable_desktop_lighthouse.png)
+
 
 
 
