@@ -568,7 +568,7 @@ However, the accessibility, SEO, and best practices for the web page remained so
 
 Here are some screenshots for the lightouse test on devices: 
 
-![lighthouse desktop screeshot for homepage](assets/images/lighthouse_homepage.png)
+![lighthouse_desktop_screeshot_for_homepage](assets/images/lighthouse_homepage.png)
 
 ![lighthouse_mobile_screenshot_for_homepage](assets/images/lighthouse_homepage_mobile.png)
 

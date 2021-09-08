@@ -153,7 +153,7 @@ The page also has a footer that contains the same information as before.
 
 * Navigation bar : This is present in all pages to allow the user to navigate through the different pages available easily without having to use the back button to go back to each the pages.
 
-* Header logo – The company’s logo FLYBODY is present in the navigation bar and represents the brand’s image . The user can click on this logo to return to the homepage whenever they leave the homepage to another page than using the home button not present. 
+* Header logo – The company’s logo FLYBODY is present in the navigation bar and represents the brand’s image. The user can click on this logo to return to the homepage whenever they leave the homepage to another page than using the home button not present. 
 
 * Call to action buttons: This exists on every single page and directs the user to either a sign up form / subscription form  so the users can  join /sign up for FLYBODY’s gym membership to experience the feel.
 
@@ -175,7 +175,7 @@ The page also has a footer that contains the same information as before.
 
 * Thank you page : This page thanks the user for joining us at FLYBODY and informs the user of FLYBODY's next moves. This ensures that the user has up-to-date timely information.
 
- ### FEATURES TO IMPLEMENT IN FUTURE
+ ### Features To Implement In The Future 
 
 * On the homepage, there is a section called "Facilities." The view more button should take the user to another link that provides photographs of the gym equipment as well as a video of people using the equipment. 
 
@@ -211,7 +211,7 @@ The page also has a footer that contains the same information as before.
 
 8. [CHROME DEV TOOLS]() : This was used to test our site's responsiveness across various screen sizes.
 
-9. [Visual Studio code](https://code.visualstudio.com/): This was used for writing and testing out the project’s code to avoid internet connection interference.  
+9. [VISUAL STTUDIO CODE](https://code.visualstudio.com/): This was used for writing and testing out the project’s code to avoid internet connection interference.  
 
 
 ## TESTING 
@@ -304,32 +304,33 @@ The images used on the website were obtained from image suppliers such as pexels
 
 * The image used on the rates page as the hero image is a photo by Karsten Winegeart from [unsplash](https://unsplash.com/photos/0Wra5YYVQJE).
 
-* The hero image on the timetable page is a photo by Sven Mieke from [unsplash] (https://unsplash.com/photos/MsCgmHuirDo).
+* The hero image on the timetable page is a photo by Sven Mieke from [unsplash] (https://unsplash.com/photos/MsCgmHuirDo)
 
 * The background hero image for the instructors page is a photo from Marcos Paulo Prado from [unsplash](https://unsplash.com/photos/-k7WRj0E64Q). 
 
 * The images of the instructors are taken from : 
  - For Abayomi Daniels – Photo by Abdullah Ali from [unsplash](https://unsplash.com/photos/L2Nw-onZOX4). 
 
- - For Faith Mola  – Photo by  Samantha Hurley from burst [shopify](https://unsplash.com/photos/L2Nw-onZOX4).
+ - For Faith Mola  –  Photo by  Samantha Hurley from burst [shopify](https://unsplash.com/photos/L2Nw-onZOX4).
 
- - For Chris Akagbu  – Photo by karsten Winegeart from [unsplash]((https://unsplash.com/photos/JfN0kpooAyw)).
+ - For Chris Akagbu  –  Photo by karsten Winegeart from [unsplash]((https://unsplash.com/photos/JfN0kpooAyw)).
 
- - For Lilian Esoyo-  Photo by Madison Lavern from [unsplash](https://unsplash.com/photos/4gcqRf3-f2I).
+ - For Lilian Esoyo -  Photo by Madison Lavern from [unsplash](https://unsplash.com/photos/4gcqRf3-f2I).
 
- - For Keffi Chuku-  Photo by Omid Armin from [unsplash](https://unsplash.com/photos/89poi2aVXX0).
+ - For Keffi Chuku -  Photo by Omid Armin from [unsplash](https://unsplash.com/photos/89poi2aVXX0).
 
- - For Brenda Hynes - Photo by Alora Griffiths from [usplash](https://unsplash.com/photos/PLmA2IY8z3U).
+ - For Brenda Hynes  -  Photo by Alora Griffiths from [usplash](https://unsplash.com/photos/PLmA2IY8z3U).
 
- - For Brown Philip - Photo by Pikx by Panther from [pexels](https://www.pexels.com/photo/photo-of-man-with-muscular-body-1547248/).
+ - For Brown Philip  -  Photo by Pikx by Panther from [pexels](https://www.pexels.com/photo/photo-of-man-with-muscular-body-1547248/).
  
  - For Rita Baj- Photo by Styves Exantus from [pexels](https://www.pexels.com/photo/city-fashion-people-woman-8437651/).
 
-* On the Login page, the  hero image is taken from [pexels](https://www.pexels.com/photo/light-man-beach-people-6388377/) by Tima miroshnichenko. 
+* On the Login page, the  hero image is taken from [pexels](https://www.pexels.com/photo/light-man-beach-people-6388377/) by Tima miroshnichenko.
 
-* The hero image on the join us page  is taken from karsten Winegeart by [unsplash] (https://unsplash.com/photos/w6BHqa8ukc0).
+* The hero image on the join us page  is taken from karsten Winegeart by [unsplash](https://unsplash.com/photos/w6BHqa8ukc0).
 
-* The hero image used on the thanks page is taken from Victor Frietas by [unsplash] (https://unsplash.com/photos/WvDYdXDzkhs).
+* The hero image used on the thanks page is taken from Victor Frietas by [unsplash](https://unsplash.com/photos/WvDYdXDzkhs).
+
 
 #### ACKNOWLEDGEMENTS
 
