@@ -570,9 +570,13 @@ Here are some screenshots for the lightouse test on devices:
 
 ![lighthouse desktop screeshot for homepage](assets/images/lighthouse_homepage.png)
 
-![lighthouse_mobile_screenshot_for_homepage] (assets/images/lighthouse_homepage_mobile.png)
+![lighthouse_mobile_screenshot_for_homepage](assets/images/lighthouse_homepage_mobile.png)
 
-![lighthouse_mobile_screenshot_for_ratespage] (assets/images/lighthouse mobile_for_rates_page.png)
+![lighthouse_mobile_screenshot_for_ratespage](assets/images/lighthouse_mobile_for_rates_page.png)
+
+
+
+
 
 
 ## LIMITATIONS
