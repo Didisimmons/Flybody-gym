@@ -1,6 +1,6 @@
 # FLYBODY  
 
-[View the main README file here](README.md)
+[View the main README file](README.md)
 
 [View the delopyed site](https://didisimmons.github.io/Flybody-gym/)
 
@@ -31,23 +31,23 @@ The most common path for our user through the website:
 
 * Rates > Timetable > Instructors > Login > Join Us 
  
-An alert message appears at the top of the navigation bar and can be dismissed. We can test this by changing the screen width in Chrome Dev Tools, the alert message shrinks. Starting with the desktop view, it can be observed to be responsive when the screen width is reduced. The alert message is included on all five pages so that the user is aware of the new Covid guidelines before attending an in-class session.
+An alert message appears at the top of the navigation bar and can be dismissed. It is included on all five pages so that the user is aware of the new Covid guidelines before attending an in-class session. We can test this by changing the screen width in Chrome Dev Tools, the alert message width shrinks. On a desktop view, it can be observed to be responsive when the screen width is reduced. 
 
-The user can easily navigate to the next page from any of the sites by lingering over any of the required five webpages. The home page is represented by the FLYBODY logo. If the user clicked, they would be taken to the main page of the website.
+The user can easily navigate to the next page from any of the sites by lingering over any of the required five webpages. The home page is represented by the FLYBODY logo. If clicked, user would be taken to the main page of the website.
 
-The user may quickly sign up to FLYBODY gym using the call to action button on the hero image on the main page, which is the home page. They can quickly examine the amenities, benefits, team members, customer reviews, and a newsletter subscription button. If the user does not interact with the other pages, this is all on one page.
+The user may quickly sign up to FLYBODY gym using the call to action button on the hero image on the home page. The user can quickly examine the amenities, benefits, team members, customer reviews and subscribe to FLYBODY newsletter in a case were the user does not interact with the other pages, this is all on one page to hasten the Sign Up process .
 
 When the screen width is set to a desktop view, the FLYBODY logo on all devices takes the user to the homepage, and when the user hovers over any of the webpage links, it is highlighted with a light grey backdrop. The navigation bar on a tablet or mobile device is a hamburger icon that, when clicked, allows the user to hover over the five  webpages and see the grey highlight backdrop. 
 
 - As a customer I want to : 
 
-1. Easily navigate the site and get the information I need to take the necessary action
+1. Easily navigate the site and get the information I need to take the necessary action.
 
     1. All of the webpages contain a navigation bar with five clearly labelled weblinks that, when clicked, take the user to different activities and examine different information about FLYBODY.
 
     2. When the FLYBODY logo is clicked, it takes the user to the home page.
 
-    3. The user can navigate down the webpage to see the perks, deals, and take various tasks, as well as learn more about the gym.
+    3. The user can navigate down the webpage to see the perks, deals, and perform various tasks, as well as learn more about the gym.
 
     4. All of the call to action buttons on the webpages either redirect the user to another page or open a form to be filled out, which notifies the user of the next action once completed.
 
@@ -60,7 +60,7 @@ When the screen width is set to a desktop view, the FLYBODY logo on all devices 
 
     2. In the about us part on the home page, a brief history of FLYBODY is offered, as well as the names and levels of competence of its team members. The user can simply check their legitimacy by researching their names/credentials online.
 
-    3. The instructors website also includes information on all of the trainers, including their areas of specialization and years of experience. The user can readily authenticate the expertise of these teachers by researching them on their social media sites.
+    3. The instructors website also includes information on all of the trainers, including their areas of specialization and years of experience. The user can readily authenticate the expertise of these instructors by researching them on their social media sites.
 
     4. To build trust with users, a reviews area has been included to display users feedback from real users from various industries to hear their thoughts on FLYBODY. This can have an impact on the users' trust in the brand.
 
@@ -84,7 +84,7 @@ When the screen width is set to a desktop view, the FLYBODY logo on all devices 
 
     1.	On the navigation bar, which is accessible on all pages, there is a clearly visible instructor page that displays all of the trainers at FLYBODY.
 
-    2.	The instructor page displays thumbnail photographs of the trainers along with their names, areas of specialization, and years of experience. This can affect the user's selection on which trainer they want to work with and, if necessary, research more about them or call in to arrange a session.
+    2.	The instructor page displays thumbnail photographs of the trainers along with their names, areas of specialization, and years of experience. This can affect the user's selection on which trainers they want to work with and, if necessary, research more about them or call in to arrange a session.
      
 6. The site should be visually appealing in order to keep me interested and present appealing offers on the site.
 
@@ -100,7 +100,7 @@ When the screen width is set to a desktop view, the FLYBODY logo on all devices 
 
     1. The navigation bar, which is visible on all pages, contains a clearly labelled login page that, when clicked, displays one column requesting the user for their login credentials to enter their portal.
 
-    2.	In the future, after users log in to their portal, they will be able to track their fitness goals, book classes, and interact with other users via the fitness community.
+    2.	In the future, after users log in to their portal, they will be able to track their fitness goals, book classes, and interact with other users via the fitness community.For now the Login page leads to a thank you page.
 
 8. 	Find low-cost memberships that can be tailored to my needs without breaking the budget.  
 
@@ -115,19 +115,19 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 
  1. Navigation bar 
 
-     1. Go to the Index page(Home)  on a desktop . 
+     1. Go to the Index page(Home) on a desktop . 
 
      2. Change the desktop's screen size to that of a tablet device to ensure that the navigation bar is responsive and changes to a hamburger dropdown symbol when the medium break point is reached. The navigation bar should be positioned correctly, with the menu items in place.
 
-         There was no overflow of the navbar or undesirable modifications to the menu items when testing the responsiveness of the navbar. The navigation bar changed to a hamburger dropdown symbol with the dropdown menu items in situ, as intended.
+         There was no overflow of the navbar or undesirable modifications to the menu items when testing the responsiveness of the navbar. The navigation bar changed to a hamburger dropdown symbol with the dropdown menu items in place, as intended.
 
     3. Hover over the alert dismissive message button and make sure it does not create any undesirable changes to the navigation bar when exited.
 
-          When tested on all devices, the alert dismissive button shuts without impeding the navigation bar. The navigation bar is still present, as expected.
+          When tested on all devices, the alert dismissive button closes without impeding the navigation bar. The navigation bar is still present, as expected.
 
     4. Hover your mouse over the navbar menu items and click on each link to ensure that it takes you to the relevant page.
 
-         When tested on all devices , the menu links function as intended. Linking to the  appropriate sites.
+         When tested on all devices , the menu links function as intended. Linking to the appropriate sites.
 
     5. Click on the FLYBODY logo to ensure that it takes you to the home page when you click on it. 
 
@@ -153,13 +153,13 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
     
          When tested on a desktop device, the hero picture fills the entire screen width, despite the presence of the navigation bar and the alert dismissing message above it. The alert message, on the other hand, extends down the navigation bar, blocking some text on the hero image. This is remedied by increasing the text's padding. This new fix has no effect on any of the other features.
 
-         When doing the above-mentioned tests (III) on a tablet and mobile device, when the alert dismissing message appears above the navigation bar. The alert message pushed down the navigation bar, obscuring some text, and the overlay on top of the image was overflowing. This was corrected by raising the height of the hero image on both tablet and mobile devices. Changing the height of the hero picture based on the device breakpoint
+         When doing the above-mentioned tests (iii) on a tablet and mobile device, when the alert dismissing message appears above the navigation bar. The alert message pushed down the navigation bar, obscuring some text, and the overlay on top of the image was overflowing. This was corrected by raising the height of the hero image on both tablet and mobile devices. Changing the height of the hero image based on the device breakpoint
 
     4. When the alert dismissal message is exited above the navigation bar, check that the hero picture is still displayed on all devices.
 
          On a desktop device, the hero picture fills the entire screen, the overlay is in place, and the hero image text is well within the image.
 
-         Running the same test on a tablet found out that the text on the hero image was so enormous that it was spilling over the edge of the image. This was corrected by adding classes to the hero image text and the call to action button to minimize the size of the elements when a specified breakpoint was reached. The font size and button size of the items on the hero picture were fixed by these classes. After implementing the patch, the hero image was still visible, with all of its components responsively and in the relevant places. 
+         Running the same test on a tablet found out that the text on the hero image was so enormous that it was spilling over the edge of the image. This was corrected by adding classes to the hero image text and the call to action button to minimize the size of the elements when a specified breakpoint was reached. The font size and button size of the items on the hero picture were fixed by these classes. After implementing the fix, the hero image was still visible, with all of its components responsively and in the relevant places. 
 
          However, performing  the same tests on a mobile device discovered that the alert dismissive text above the navigation bar obstructed the view of the hero image message, and that when the navigation bar was exited, it blocked some parts of the hero image text, with the contents on the hero image appearing clustered. To address this issue, we previously adjusted the hero image height, assigning different values for different breakpoints to fit all banner elements (i.e. text, button), however this did not resolve the issue on all platforms, particularly mobile smartphones. 
 
@@ -179,7 +179,7 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 
     7. Click the Sign Up button on the main page and ensure that a modal form appears, requiring you to fill out all of the information accurately before submitting.
 
-         Testing  this on a desktop device,  click on the Sign Up button, which opens a modal form that requests some personal information. When tested, all fields must be filled in order to submit the form; if not, an error notice displays requesting that you “please fill out the form.” This is also true for a tablet or mobile device; the form is responsive to screen size, as are the fonts and call to action buttons, which shrink in size based on the breakpoint.
+         Testing this on a desktop device,  click on the Sign Up button, which opens a modal form that requests some personal information. When tested, all fields must be filled in order to submit the form; if not, an error notice displays requesting that you “please fill out the form.” This is also true for a tablet or mobile device; the form is responsive to screen size, as are the fonts and call to action buttons, which shrink in size based on the breakpoint.
 
     8. When the form is correctly filled, click the signup button to ensure that it takes you to the correct page, which is the thank you page. 
 
@@ -551,11 +551,11 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 
 ## Further Testing
 
-* I asked co-workers and friends to test the site on their devices and submit comments on the website. One of the feedbacks was that the footer appeared clustered on a mobile device, so the footer was modified. This was corrected by adding a class to hide the third column of footer content.
+* I asked co-workers and friends to test the site on their devices and submit comments on the website. One of the feedbacks was that the footer appeared clustered on a mobile device, so the footer was modified. This was corrected by adding a class to hide the third column of the footer content on a mobile device.
 
-* Another complaint was that the timetable page header and body contents were not intuitive. They felt the message presented was a little confusing; this was corrected by adding additional text beneath the timeline to provide clear information to the user rather than misleading information. A colleague checked it again, and they were able to readily engage with the page and grasp its information.
+* Another complaint was that the timetable page header and body contents were not intuitive. They felt the message presented was a little confusing; this was corrected by adding additional text beneath the timetable to provide clear information to the user rather than misleading information. A colleague checked it again, and they were able to readily engage with the page and grasp its information.
 
-* The site AM I Responsive is used to capture the visual responsiveness of the site to check if it is responsive on all devices by displaying a brief screen shot. See screeshot below 
+* The site AM I Responsive is used to capture the visual responsiveness of the site on all devices to check if it is responsive. See screen shot below.
 
 ![screeshot view of website on all devices](assets/images/amiresponsive.png)
 
@@ -564,9 +564,9 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
 
 The lighthouse test is used to evaluate a webpage's performance, accessibility, and best web practices. For this project, the test was carried out using the Chrome dev tools to evaluate the site's performance, although the results for the performance altered whenever the page was refreshed and the test was re-run.
 
-However, the accessibility, SEO, and best practices for the web page remained somewhat consistent with excellent ratings, but the performance of the homepage was occasionally low due to “render blocking elements,” as lighthouse mentioned. These could be related to the photos used on the site, which were optimized for the site but were still listed in the report as large files. The issue may be caused by cached images and a lack of backup files for varying bandwidth, which is beyond the scope of this project.
+However, the accessibility, SEO, and best practices for the web page remained somewhat consistent with excellent ratings, but the performance of the homepage was occasionally low due to “render blocking elements,” as lighthouse mentioned. These could be related to the photos used on the site, which were optimized for the site but were still listed in the report as large files. The issue may be caused by cached images and a lack of backup files(images) for varying bandwidth, which is beyond the scope of this project.
 
-Here are some screenshots for the lightouse test on devices: 
+Here are screenshots for the lightouse test on mobile ad desktop devices: 
 
 ![lighthouse_desktop_screeshot_for_homepage](assets/images/lighthouse_homepage.png)
 
