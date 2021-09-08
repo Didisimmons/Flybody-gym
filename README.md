@@ -220,34 +220,33 @@ This can be found in another file called [TEST.md](TEST.md)
 
 ## Deployment 
 
-1. Github Pages
+1. GitHub Pages
 
-  This project was deployed using GitHub Pages. These are the actions taken to deploy this project. 
+  This project was deployed using GitHub Pages. These are the actions taken to deploy this project
 
-      * Log in to GitHub and navigate to the repository to be deployed, which in our instance is located here.
+     * Log in to GitHub and navigate to the repository to be deployed, which in our instance is located here.
 
-      * Click on one of the button options presented at the top of our repository, which is "Settings."
+     * Click on one of the button options presented at the top of our repository, which is "Settings."
 
-      * After you've clicked it, go down to the bottom of the website to the Github Pages section and click the link "Check it out here."
+     * After you've clicked it, go down to the bottom of the website to the Github Pages section and click the link "Check it out here."
 
-      * This opens the GitHub Pages tab. Select "Master" from the dropdown list under "source" and press "save."
+     * This opens the GitHub Pages tab. Select "Master" from the dropdown list under "source" and press "save."
 
-      * Once the modifications are saved, the page will instantly refresh, displaying the link to the deployed site above the “source ” part on github pages.
+     * Once the modifications are saved, the page will instantly refresh, displaying the link to the deployed site above the “source ” part on github pages.
 
-      * Please keep in mind that clicking the link may alert the user that the page has not yet been deployed; however, this is not a problem; simply wait two minutes for it to refresh on the server and the site will be deployed.
-
+     * Please keep in mind that clicking the link may alert the user that the page has not yet been deployed; however, this is not a problem; simply wait two minutes for it to refresh on the server and the site will be deployed.
 
 2. Forking The Github Repository
 
-  By forking the GitHub repository, we create a clone of the original repository in our Github account. This allows us to make modifications to the files without affecting the original repository.    
+  By forking the GitHub repository, we create a clone of the original repository in our Github account. This allows us to make modifications to the files without affecting the original repository.
 
-      * Please sign in to your GitHub account. 
+     * Please sign in to your GitHub account. 
 
-      * Locate the repository to be duplicated, in this case [FLYBODY](https://github.com/Didisimmons/Flybody-gym).
+     * Locate the repository to be duplicated, in this case [FLYBODY](https://github.com/Didisimmons/Flybody-gym).
 
-      * Locate and click the “Fork” button at the top of the FLYBODY repository page. 
+     * Locate and click the “Fork” button at the top of the FLYBODY repository page. 
 
-      * This creates a copy of the repository in our account, allowing us to make modifications.
+     * This creates a copy of the repository in our account, allowing us to make modifications.
 
 
 3. Making A Local Clone
@@ -319,13 +318,15 @@ The images used on the website were obtained from image suppliers such as pexels
 
 * The photos used for the team members were taken from : 
 
-      - For Jennifer Olaitan  – Photo by Alex Starnes from [unsplash](https://unsplash.com/photos/PK_t0Lrh7MM). 
+    - For Jennifer Olaitan - Photo by Alex Starnes from [unsplash](https://unsplash.com/photos/PK_t0Lrh7MM).
+    
+    - For Jennifer Olaitan - Photo by Alex Starnes from [unsplash](https://unsplash.com/photos/PK_t0Lrh7MM).
 
-      -	For Pearl Olatunde – Photo by Ketut Subiyanto from [pexels](https://www.pexels.com/photo/cheerful-woman-with-notebook-sitting-at-table-4350097/).
+    - For Pearl Olatunde - Photo by Ketut Subiyanto from [pexels](https://www.pexels.com/photo/cheerful-woman-with-notebook-sitting-at-table-4350097/).
 
-      - For Ross Ajayi  – Photo by Brooke Cagle from [unsplash](https://unsplash.com/photos/Nm70URdtf3c).
+    - For Ross Ajayi  – Photo by Brooke Cagle from [unsplash](https://unsplash.com/photos/Nm70URdtf3c).
 
-      - For James Nwobodo-  Photo by Mike Von from [unsplash](https://unsplash.com/photos/fHwuDivva_w).
+    - For James Nwobodo-  Photo by Mike Von from [unsplash](https://unsplash.com/photos/fHwuDivva_w).
 
 * The image used on the rates page as the hero image is a photo by Karsten Winegeart from [unsplash](https://unsplash.com/photos/0Wra5YYVQJE).
 
