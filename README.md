@@ -54,7 +54,7 @@ As a customer I want to :
    
    - The photographs portray a modern aesthetic gym where members are having fun using the gym's facilities and equipment, as well as the energy that can be expected there. The graphics' purpose is to draw viewers' attention to the FLY BODY website, where they may register and join the community.
 
-#### Wireframes:  
+### Wireframes:  
 
 The wireframe for the entire site is available [here](https://www.figma.com/file/8qHDfvLP2VWCYEGpWECjkS/FLYBODY?node-id=0%3A1).  This shows the site on both a desktop and a mobile device, with some tablet view wireframes indicating when the screen view is different and its interactions.
 
