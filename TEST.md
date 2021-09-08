@@ -584,10 +584,13 @@ Here are some screenshots for the lightouse test on devices:
 
 ![lighthouse_desktop_screenshot_for_instructors](assets/images/desktop_screenshot_for_instructors.png)
 
-![lighthouse_desktop_screenshot_for_timetablepage](assets/images/timetable_lighthouse_mobile.png)
+![lighthouse_mobile_screenshot_for_loginpage](assets/images/login_lighthouse_mobile.png)
 
-![lighthouse_desktop_screenshot_for_timetablepage](assets/images/timetable_desktop_lighthouse.png)
+![lighthouse_desktop_screenshot_for_loginpage](assets/images/login_lighthouse_desktop.png)
 
+![lighthouse_mobile_screenshot_for_joinuspage](assets/images/joinus_lighthouse_mobile.png)
+
+![lighthouse_desktop_screenshot_for_joinuspage](assets/images/joinus_lighthouse_desktop.png)
 
 
 ## Limitations
