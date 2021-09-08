@@ -107,7 +107,7 @@ When the screen width is set to a desktop view, the FLYBODY logo on all devices 
     1. The user can view the many membership plans offered by FLYBODY and choose one that fits their budget on the pricing page (rates) , which is accessible via the navigation bar on all pages.
 
 
-### TESTING OF ALL FEATURES AND ELEMENTS ON THE PAGE
+### Testing All Features And Elements On The Page 
 
 To test the responsiveness of each of the webpages the Chrome dev tools were employed to test the pages by changing the screen sizes of the device.
 
@@ -549,7 +549,7 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
     2. Repeat the verification procedures ( i - vi) from the homepage's footer. By following the instructions, it is possible to see that the same results as on the home page are obtained here. The footer content is responsive, and on smaller devices, the third column is hidden.
 
 
-## FURTHER TESTING 
+## Further Testing
 
 * I asked co-workers and friends to test the site on their devices and submit comments on the website. One of the feedbacks was that the footer appeared clustered on a mobile device, so the footer was modified. This was corrected by adding a class to hide the third column of footer content.
 
@@ -590,11 +590,7 @@ Here are some screenshots for the lightouse test on devices:
 
 
 
-
-
-
-
-## LIMITATIONS
+## Limitations
 
 * One of the limitations of utilizing the Gitpod was internet connection interruption, all of the tests were re-run using Visual Studio Code's integrated development environment. It was noticed when modifications were made to the various html pages and saved, the changes did not take effect immediately when the preview page was refreshed. A hard reset was performed, but the problem persisted. The VS code IDE was utilized to establish the actual results took place  and guarantee the changes made to the html codes were effective. 
 

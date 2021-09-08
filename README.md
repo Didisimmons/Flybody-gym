@@ -12,7 +12,7 @@ We recognize that embarking on a fitness journey can be intimidating at times, e
 The website would foster a community in which people could constantly motivate one another and be proud of the benefits of being a member of a gym community.
 
 
-## PROJECT GOAL 
+## Project Goal: 
 
 FLYBODY is a website that encourages people to meet up for workout sessions or personal training on a regular basis. To create a community in which people can constantly motivate, socialize, and hold one another responsible for their fitness goals. The site would target people of all ages who want to stay fit, need motivation to get started, and are searching for a fitness community to join. FLYBODY would show the benefits of joining their community, how to join, and the advantages of FLYBODY over competitors.
 
@@ -40,7 +40,8 @@ As a customer I want to :
 * Find low-cost memberships that can be tailored to my needs without breaking the budget.
 
 
-## DESIGN
+## Design
+
 * Colour Scheme
 
     - The colours used on the site were picked from Glebstock's adobe [palette](www.color.adobe.com/search?q=gym.)
@@ -59,7 +60,7 @@ As a customer I want to :
 The wireframe for the entire site is available [here](https://www.figma.com/file/8qHDfvLP2VWCYEGpWECjkS/FLYBODY?node-id=0%3A1).  This shows the site on both a desktop and a mobile device, with some tablet view wireframes indicating when the screen view is different and its interactions.
 
 
-## FEATURES
+## Features
 
 On each of the five pages, a fully responsive navigation bar has been included. The navigation bar is made up of the gym's emblem on the far left and five different links on the right. On a mobile device, the five individual links condense into a hamburger icon in the menu bar, while the logo on the left side remains unchanged.
 
@@ -187,7 +188,7 @@ The page also has a footer that contains the same information as before.
 
 * Instructor page: The user should be able to click on the thumbnail images of the instructors, and the images should flip, allowing the user to see more thorough information about the user.
 
-## TECHNOLOGIES USED 
+## Technologies Used 
 
 #### LANGUAGES USED : 
 * HTML5
@@ -214,75 +215,73 @@ The page also has a footer that contains the same information as before.
 9. [VISUAL STTUDIO CODE](https://code.visualstudio.com/): This was used for writing and testing out the project’s code to avoid internet connection interference.  
 
 
-## TESTING 
+## Testing
 This can be found in another file called [TEST.md](TEST.md)
 
-## DEPLOYMENT 
+## Deployment 
 
-1. GITHUB PAGES 
+1. Github Pages
 
 This project was deployed using GitHub Pages. These are the actions taken to deploy this project. 
 
-* Log in to GitHub and navigate to the repository to be deployed, which in our instance is located here.
+  * Log in to GitHub and navigate to the repository to be deployed, which in our instance is located here.
 
-* Click on one of the button options presented at the top of our repository, which is "Settings."
+  * Click on one of the button options presented at the top of our repository, which is "Settings."
 
-* After you've clicked it, go down to the bottom of the website to the Github Pages section and click the link "Check it out here."
+  * After you've clicked it, go down to the bottom of the website to the Github Pages section and click the link "Check it out here."
 
-* This opens the GitHub Pages tab. Select "Master" from the dropdown list under "source" and press "save."
+  * This opens the GitHub Pages tab. Select "Master" from the dropdown list under "source" and press "save."
 
-* Once the modifications are saved, the page will instantly refresh, displaying the link to the deployed site above the “source ” part on github pages.
+  * Once the modifications are saved, the page will instantly refresh, displaying the link to the deployed site above the “source ” part on github pages.
 
-* Please keep in mind that clicking the link may alert the user that the page has not yet been deployed; however, this is not a problem; simply wait two minutes for it to refresh on the server and the site will be deployed.
+  * Please keep in mind that clicking the link may alert the user that the page has not yet been deployed; however, this is not a problem; simply wait two minutes for it to refresh on the server and the site will be deployed.
 
 
-2. FORKING THE GITHUB REPOSITORY
+2. Forking The Github Repository
 
 By forking the GitHub repository, we create a clone of the original repository in our Github account. This allows us to make modifications to the files without affecting the original repository.    
 
-* Please sign in to your GitHub account. 
+  * Please sign in to your GitHub account. 
 
-* Locate the repository to be duplicated, in this case [FLYBODY](https://github.com/Didisimmons/Flybody-gym).
+    * Locate the repository to be duplicated, in this case [FLYBODY](https://github.com/Didisimmons/Flybody-gym).
 
-* Locate and click the “Fork” button at the top of the FLYBODY repository page. 
+    * Locate and click the “Fork” button at the top of the FLYBODY repository page. 
 
-* This creates a copy of the repository in our account, allowing us to make modifications.
-
-
-3. MAKING A LOCAL CLONE. 
-
-* Please sign in to your GitHub account. 
-
-* Locate the desired repository in this case [FLYBODY](https://github.com/Didisimmons/Flybody-gym).
-
-* Locate the “Code” button at the top of the FLYBODY repository page. Click it and copy the HTTPS link that appears. 
-
-* Activate your local IDE terminal. 
-
-* Change the current working directory to the location where you wish the cloned file to be saved. 
-
-* In the terminal, type “git clone” and then paste the link copied from HTTPS. 
-
-* e.g "git clone https://github.com/Didisimmons/Flybody-gym.git" 
-
-* The clone has been made once you press enter.
-
-4. DOWNLOAD AND EXTRACT ZIP FILE FROM GITHUB.  
-
-* Please sign in to your GitHub account. 
-
-* Find the desired repository, in this case [FLYBODY](https://github.com/Didisimmons/Flybody-gym). 
-
-* Locate the “Code” button at the top of the FLYBODY repository page. Click it and select “download ZIP” . 
-
-* Once this is downloaded, us any decompressing tool to open the zip file. 
-
-* Once the file has been opened, any IDE of choice can be used to edit file. 
-
-Activate your local IDE terminal.
+    * This creates a copy of the repository in our account, allowing us to make modifications.
 
 
-## CREDITS 
+3. Making A Local Clone
+
+      * Please sign in to your GitHub account. 
+
+      * Locate the desired repository in this case [FLYBODY](https://github.com/Didisimmons/Flybody-gym).
+
+      * Locate the “Code” button at the top of the FLYBODY repository page. Click it and copy the HTTPS link that appears. 
+
+      * Activate your local IDE terminal. 
+
+      * Change the current working directory to the location where you wish the cloned file to be saved. 
+
+      * In the terminal, type “git clone” and then paste the link copied from HTTPS. 
+
+      * e.g "git clone https://github.com/Didisimmons/Flybody-gym.git" 
+
+      * The clone has been made once you press enter.
+
+4. Download And Extract File From GitHub.  
+
+      * Please sign in to your GitHub account. 
+
+      * Find the desired repository, in this case [FLYBODY](https://github.com/Didisimmons/Flybody-gym). 
+
+      * Locate the “Code” button at the top of the FLYBODY repository page. Click it and select “download ZIP” . 
+
+      * Once this is downloaded, us any decompressing tool to open the zip file. 
+
+      * Once the file has been opened, any IDE of choice can be used to edit file and make changes. 
+
+
+## Credits 
 
 #### CONTENT 
 * The code used to construct  the hero image for all web pages was borrowed from the [whiskey project at the code institute](https://github.com/Didisimmons/Bootstrap-project1/blob/master/index.html).
@@ -310,19 +309,19 @@ The images used on the website were obtained from image suppliers such as pexels
 
 *	The Facilities part is divided into three sections, and the images used were obtained from the following individuals:
 
-   - Cardio & weight lifting area – Photo by Dushane White from [unsplash](https://unsplash.com/photos/3IbnOuxXST4). 
+      - Cardio & weight lifting area – Photo by Dushane White from [unsplash](https://unsplash.com/photos/3IbnOuxXST4). 
 
-   - Swimming & Sauna area – Photo by HUUM from [unsplash](https://unsplash.com/photos/xn_MghoT9HE).
+      - Swimming & Sauna area – Photo by HUUM from [unsplash](https://unsplash.com/photos/xn_MghoT9HE).
 
-   - Cycling & Playground area –Photo by Andrea Piacquadio from [pexels](https://www.pexels.com/photo/young-ethnic-woman-with-fit-ball-sitting-on-floor-while-training-in-modern-gym-3768593/).
+      - Cycling & Playground area –Photo by Andrea Piacquadio from [pexels](https://www.pexels.com/photo/young-ethnic-woman-with-fit-ball-sitting-on-floor-while-training-in-modern-gym-3768593/).
 
 * A background photo can be found in the reviews section by Scott Webb from [unsplash](https://unsplash.com/photos/JNPvv1u8yRg). 
 
 * The photos used for the team members were taken from : 
-    - For Jennifer Olaitan  – Photo by Alex Starnes from [unsplash](https://unsplash.com/photos/PK_t0Lrh7MM). 
-    -	For Pearl Olatunde – Photo by Ketut Subiyanto from [pexels](https://www.pexels.com/photo/cheerful-woman-with-notebook-sitting-at-table-4350097/).
-    - For Ross Ajayi  – Photo by Brooke Cagle from [unsplash](https://unsplash.com/photos/Nm70URdtf3c).
-    - For James Nwobodo-  Photo by Mike Von from [unsplash](https://unsplash.com/photos/fHwuDivva_w).
+      - For Jennifer Olaitan  – Photo by Alex Starnes from [unsplash](https://unsplash.com/photos/PK_t0Lrh7MM). 
+      -	For Pearl Olatunde – Photo by Ketut Subiyanto from [pexels](https://www.pexels.com/photo/cheerful-woman-with-notebook-sitting-at-table-4350097/).
+      - For Ross Ajayi  – Photo by Brooke Cagle from [unsplash](https://unsplash.com/photos/Nm70URdtf3c).
+      - For James Nwobodo-  Photo by Mike Von from [unsplash](https://unsplash.com/photos/fHwuDivva_w).
 
 * The image used on the rates page as the hero image is a photo by Karsten Winegeart from [unsplash](https://unsplash.com/photos/0Wra5YYVQJE).
 
@@ -331,21 +330,21 @@ The images used on the website were obtained from image suppliers such as pexels
 * The background hero image for the instructors page is a photo from Marcos Paulo Prado from [unsplash](https://unsplash.com/photos/-k7WRj0E64Q). 
 
 * The images of the instructors are taken from : 
- - For Abayomi Daniels – Photo by Abdullah Ali from [unsplash](https://unsplash.com/photos/L2Nw-onZOX4). 
+      - For Abayomi Daniels – Photo by Abdullah Ali from [unsplash](https://unsplash.com/photos/L2Nw-onZOX4). 
 
- - For Faith Mola  –  Photo by  Samantha Hurley from burst [shopify](https://unsplash.com/photos/L2Nw-onZOX4).
+      - For Faith Mola  –  Photo by  Samantha Hurley from burst [shopify](https://unsplash.com/photos/L2Nw-onZOX4).
 
- - For Chris Akagbu  –  Photo by karsten Winegeart from [unsplash]((https://unsplash.com/photos/JfN0kpooAyw)).
+      - For Chris Akagbu  –  Photo by karsten Winegeart from [unsplash](https://unsplash.com/photos/JfN0kpooAyw).
 
- - For Lilian Esoyo -  Photo by Madison Lavern from [unsplash](https://unsplash.com/photos/4gcqRf3-f2I).
+      - For Lilian Esoyo -  Photo by Madison Lavern from [unsplash](https://unsplash.com/photos/4gcqRf3-f2I).
 
- - For Keffi Chuku -  Photo by Omid Armin from [unsplash](https://unsplash.com/photos/89poi2aVXX0).
+      - For Keffi Chuku -  Photo by Omid Armin from [unsplash](https://unsplash.com/photos/89poi2aVXX0).
 
- - For Brenda Hynes  -  Photo by Alora Griffiths from [usplash](https://unsplash.com/photos/PLmA2IY8z3U).
+      - For Brenda Hynes  -  Photo by Alora Griffiths from [usplash](https://unsplash.com/photos/PLmA2IY8z3U).
 
- - For Brown Philip  -  Photo by Pikx by Panther from [pexels](https://www.pexels.com/photo/photo-of-man-with-muscular-body-1547248/).
- 
- - For Rita Baj- Photo by Styves Exantus from [pexels](https://www.pexels.com/photo/city-fashion-people-woman-8437651/).
+      - For Brown Philip  -  Photo by Pikx by Panther from [pexels](https://www.pexels.com/photo/photo-of-man-with-muscular-body-1547248/).
+      
+      - For Rita Baj- Photo by Styves Exantus from [pexels](https://www.pexels.com/photo/city-fashion-people-woman-8437651/).
 
 * On the Login page, the  hero image is taken from [pexels](https://www.pexels.com/photo/light-man-beach-people-6388377/) by Tima miroshnichenko.
 
@@ -354,7 +353,7 @@ The images used on the website were obtained from image suppliers such as pexels
 * The hero image used on the thanks page is taken from Victor Frietas by [unsplash](https://unsplash.com/photos/WvDYdXDzkhs).
 
 
-#### ACKNOWLEDGEMENTS
+#### Acknowledgements
 
 The inspiration for this project came from online research on different gym sites around the world, which was interesting because you could see how gym sites differed for different countries, regions and people. This was taken into account when developing the FLYBODY website for Nigeria.
 
