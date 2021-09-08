@@ -111,7 +111,7 @@
 .banner-container{
     height:60vh;
     width:100%;
-    background: url(../images/karsten-winegeart-unsplash-homecover.jpeg) no-repeat center center / cover fixed;  
+    background: url(../images/heroimage1.jpeg) no-repeat center center / cover fixed;  
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -191,7 +191,7 @@
 }
 
 .about-us-image {
-    background: url(../images/alex-starnes-unsplash-sisters.jpeg) no-repeat center center / cover;
+    background: url(../images/owners_of_the_gym.jpeg) no-repeat center center / cover;
     width: 20rem;
     height: 20rem;
     border-radius: 50%;
@@ -278,7 +278,7 @@
 .reviews-content{
     height:50vh;
     width:100%;
-    background: url(../images/scott-webb-unsplash-cover4.jpeg) no-repeat center center / cover fixed;  
+    background: url(../images/review_background.jpegg) no-repeat center center / cover fixed;  
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
