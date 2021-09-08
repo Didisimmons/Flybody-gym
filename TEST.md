@@ -39,7 +39,7 @@ The user may quickly sign up to FLYBODY gym using the call to action button on t
 
 When the screen width is set to a desktop view, the FLYBODY logo on all devices takes the user to the homepage, and when the user hovers over any of the webpage links, it is highlighted with a light grey backdrop. The navigation bar on a tablet or mobile device is a hamburger icon that, when clicked, allows the user to hover over the five  webpages and see the grey highlight backdrop. 
 
--   As a customer I want to 
+- As a customer I want to : 
 
 1. Easily navigate the site and get the information I need to take the necessary action
 

@@ -224,30 +224,30 @@ This can be found in another file called [TEST.md](TEST.md)
 
   This project was deployed using GitHub Pages. These are the actions taken to deploy this project. 
 
-    * Log in to GitHub and navigate to the repository to be deployed, which in our instance is located here.
+      * Log in to GitHub and navigate to the repository to be deployed, which in our instance is located here.
 
-    * Click on one of the button options presented at the top of our repository, which is "Settings."
+      * Click on one of the button options presented at the top of our repository, which is "Settings."
 
-    * After you've clicked it, go down to the bottom of the website to the Github Pages section and click the link "Check it out here."
+      * After you've clicked it, go down to the bottom of the website to the Github Pages section and click the link "Check it out here."
 
-    * This opens the GitHub Pages tab. Select "Master" from the dropdown list under "source" and press "save."
+      * This opens the GitHub Pages tab. Select "Master" from the dropdown list under "source" and press "save."
 
-    * Once the modifications are saved, the page will instantly refresh, displaying the link to the deployed site above the “source ” part on github pages.
+      * Once the modifications are saved, the page will instantly refresh, displaying the link to the deployed site above the “source ” part on github pages.
 
-    * Please keep in mind that clicking the link may alert the user that the page has not yet been deployed; however, this is not a problem; simply wait two minutes for it to refresh on the server and the site will be deployed.
+      * Please keep in mind that clicking the link may alert the user that the page has not yet been deployed; however, this is not a problem; simply wait two minutes for it to refresh on the server and the site will be deployed.
 
 
 2. Forking The Github Repository
 
   By forking the GitHub repository, we create a clone of the original repository in our Github account. This allows us to make modifications to the files without affecting the original repository.    
 
-    * Please sign in to your GitHub account. 
+      * Please sign in to your GitHub account. 
 
-    * Locate the repository to be duplicated, in this case [FLYBODY](https://github.com/Didisimmons/Flybody-gym).
+      * Locate the repository to be duplicated, in this case [FLYBODY](https://github.com/Didisimmons/Flybody-gym).
 
-    * Locate and click the “Fork” button at the top of the FLYBODY repository page. 
+      * Locate and click the “Fork” button at the top of the FLYBODY repository page. 
 
-    * This creates a copy of the repository in our account, allowing us to make modifications.
+      * This creates a copy of the repository in our account, allowing us to make modifications.
 
 
 3. Making A Local Clone
@@ -318,9 +318,13 @@ The images used on the website were obtained from image suppliers such as pexels
 * A background photo can be found in the reviews section by Scott Webb from [unsplash](https://unsplash.com/photos/JNPvv1u8yRg). 
 
 * The photos used for the team members were taken from : 
+
       - For Jennifer Olaitan  – Photo by Alex Starnes from [unsplash](https://unsplash.com/photos/PK_t0Lrh7MM). 
+
       -	For Pearl Olatunde – Photo by Ketut Subiyanto from [pexels](https://www.pexels.com/photo/cheerful-woman-with-notebook-sitting-at-table-4350097/).
+
       - For Ross Ajayi  – Photo by Brooke Cagle from [unsplash](https://unsplash.com/photos/Nm70URdtf3c).
+
       - For James Nwobodo-  Photo by Mike Von from [unsplash](https://unsplash.com/photos/fHwuDivva_w).
 
 * The image used on the rates page as the hero image is a photo by Karsten Winegeart from [unsplash](https://unsplash.com/photos/0Wra5YYVQJE).
@@ -330,21 +334,22 @@ The images used on the website were obtained from image suppliers such as pexels
 * The background hero image for the instructors page is a photo from Marcos Paulo Prado from [unsplash](https://unsplash.com/photos/-k7WRj0E64Q). 
 
 * The images of the instructors are taken from : 
-      - For Abayomi Daniels – Photo by Abdullah Ali from [unsplash](https://unsplash.com/photos/L2Nw-onZOX4). 
 
-      - For Faith Mola  –  Photo by  Samantha Hurley from burst [shopify](https://unsplash.com/photos/L2Nw-onZOX4).
+    - For Abayomi Daniels – Photo by Abdullah Ali from [unsplash](https://unsplash.com/photos/L2Nw-onZOX4). 
 
-      - For Chris Akagbu  –  Photo by karsten Winegeart from [unsplash](https://unsplash.com/photos/JfN0kpooAyw).
+    - For Faith Mola  –  Photo by  Samantha Hurley from burst [shopify](https://unsplash.com/photos/L2Nw-onZOX4).
 
-      - For Lilian Esoyo -  Photo by Madison Lavern from [unsplash](https://unsplash.com/photos/4gcqRf3-f2I).
+    - For Chris Akagbu  –  Photo by karsten Winegeart from [unsplash](https://unsplash.com/photos/JfN0kpooAyw).
 
-      - For Keffi Chuku -  Photo by Omid Armin from [unsplash](https://unsplash.com/photos/89poi2aVXX0).
+    - For Lilian Esoyo -  Photo by Madison Lavern from [unsplash](https://unsplash.com/photos/4gcqRf3-f2I).
 
-      - For Brenda Hynes  -  Photo by Alora Griffiths from [usplash](https://unsplash.com/photos/PLmA2IY8z3U).
+    - For Keffi Chuku -  Photo by Omid Armin from [unsplash](https://unsplash.com/photos/89poi2aVXX0).
 
-      - For Brown Philip  -  Photo by Pikx by Panther from [pexels](https://www.pexels.com/photo/photo-of-man-with-muscular-body-1547248/).
+    - For Brenda Hynes  -  Photo by Alora Griffiths from [usplash](https://unsplash.com/photos/PLmA2IY8z3U).
+
+    - For Brown Philip  -  Photo by Pikx by Panther from [pexels](https://www.pexels.com/photo/photo-of-man-with-muscular-body-1547248/).
       
-      - For Rita Baj- Photo by Styves Exantus from [pexels](https://www.pexels.com/photo/city-fashion-people-woman-8437651/).
+    - For Rita Baj - Photo by Styves Exantus from [pexels](https://www.pexels.com/photo/city-fashion-people-woman-8437651/).
 
 * On the Login page, the  hero image is taken from [pexels](https://www.pexels.com/photo/light-man-beach-people-6388377/) by Tima miroshnichenko.
 
