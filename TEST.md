@@ -243,7 +243,7 @@ To test the responsiveness of each of the webpages the Chrome dev tools were emp
      
     3. Ascertain that a backdrop image is placed behind the reviews section and that there is no text overflow.  
 
-         The image is placed behind the testimonies on a desktop device. There is no text or image overflow. When the screen width is changed, the same thing happens, however on a mobile device, the testimonials offered overflow the backdrop image. This was corrected by increasing the background picture height to allow for more space for the testimonials. This is done so that the testimonial text is centred and looks well on all screen widths. The font size of the testimonials has also been lowered, resulting in the predicted lack of text overflow in the reviews area.
+         The image is placed behind the testimonies on a desktop device. There is no text or image overflow. When the screen width is changed, the same thing happens, however on a mobile device, the testimonials were overflowing the backdrop image. This was corrected by increasing the background picture height to allow for more space for the testimonials. This is done so that the testimonial text is centred and looks well on all screen widths. The font size of the testimonials has also been lowered, resulting in the predicted lack of text overflow in the reviews area.
 
 
 7. Why join us section 
@@ -595,7 +595,7 @@ Here are screenshots for the lightouse test on mobile ad desktop devices:
 
 ## Limitations
 
-* One of the limitations of utilizing the Gitpod was internet connection interruption, all of the tests were re-run using Visual Studio Code's integrated development environment. It was noticed when modifications were made to the various html pages and saved, the changes did not take effect immediately when the preview page was refreshed. A hard reset was performed, but the problem persisted. The VS code IDE was utilized to establish the actual results took place  and guarantee the changes made to the html codes were effective. 
+* One of the limitations of utilizing the Gitpod was internet connection interruption, all of the tests were re-run using Visual Studio Code's integrated development environment. It was noticed when modifications were made to the various html pages and saved on Gitpod, the changes did not take effect immediately when the preview page was refreshed. A hard reset was performed, but the problem persisted. The VS code IDE was utilized to establish the actual results took place  and guarantee the changes made to the html codes were effective. 
 
 * Majority of the html code editing and testing was done using Visual Studio's desktop IDE to eliminate internet interruption and ensure that the changes and tests were actually carried out, which is why the commits were few in number.
 
